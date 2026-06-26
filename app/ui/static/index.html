@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html class="dark" lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Zomato AI Recommender | Premium Dining Concierge</title>
+    
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    
+    <!-- Outfit Font & Material Symbols -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet" />
+    
+    <!-- Custom Style Sheet -->
+    <link href="/static/styles.css" rel="stylesheet" />
+    
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "tertiary-fixed": "#6ffbbe",
+                        "secondary-fixed-dim": "#d0bcff",
+                        "outline": "#908fa0",
+                        "secondary-fixed": "#e9ddff",
+                        "tertiary-container": "#00885d",
+                        "surface-variant": "#313540",
+                        "inverse-on-surface": "#2c303b",
+                        "secondary-container": "#571bc1",
+                        "error-container": "#93000a",
+                        "on-primary-fixed-variant": "#2f2ebe",
+                        "inverse-surface": "#dfe2f1",
+                        "primary-fixed-dim": "#c0c1ff",
+                        "primary-fixed": "#e1e0ff",
+                        "on-error-container": "#ffdad6",
+                        "on-primary": "#1000a9",
+                        "surface-tint": "#c0c1ff",
+                        "surface-container-low": "#171b26",
+                        "background": "#0b0f19",
+                        "surface-container-highest": "#313540",
+                        "secondary": "#d0bcff",
+                        "surface-dim": "#0f131d",
+                        "on-primary-container": "#0d0096",
+                        "surface-bright": "#353944",
+                        "tertiary-fixed-dim": "#4edea3",
+                        "on-tertiary-fixed-variant": "#005236",
+                        "primary-container": "#8083ff",
+                        "error": "#ffb4ab",
+                        "on-surface": "#dfe2f1",
+                        "outline-variant": "#464554",
+                        "surface": "#0f131d",
+                        "on-surface-variant": "#c7c4d7",
+                        "surface-container-high": "#262a35",
+                        "surface-container-lowest": "#0a0e18",
+                        "inverse-primary": "#494bd6",
+                        "on-tertiary": "#003824",
+                        "primary": "#c0c1ff",
+                        "on-background": "#dfe2f1",
+                        "tertiary": "#4edea3",
+                        "surface-container": "#1c1f2a",
+                        "on-secondary-container": "#c4abff",
+                        "on-primary-fixed": "#07006c",
+                        "on-error": "#690005",
+                        "on-secondary-fixed-variant": "#5516be",
+                        "on-tertiary-fixed": "#002113",
+                        "on-tertiary-container": "#000703",
+                        "on-secondary-fixed": "#23005c",
+                        "on-secondary": "#3c0091"
+                    },
+                    spacing: {
+                        "gutter": "16px",
+                        "unit": "8px",
+                        "margin-desktop": "40px",
+                        "container-padding": "24px",
+                        "margin-mobile": "16px"
+                    },
+                    fontFamily: {
+                        "display-lg": ["Outfit"],
+                        "label-md": ["Outfit"],
+                        "body-lg": ["Outfit"],
+                        "label-sm": ["Outfit"],
+                        "body-md": ["Outfit"],
+                        "headline-lg": ["Outfit"],
+                        "headline-md": ["Outfit"]
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+
+<body class="text-on-surface min-h-screen flex flex-col">
+    <!-- TopNavBar -->
+    <nav class="fixed top-0 w-full z-50 bg-background/80 backdrop-blur-xl border-b border-white/10 shadow-lg shadow-primary/10">
+        <div class="flex justify-between items-center px-margin-desktop py-4 w-full max-w-[1440px] mx-auto">
+            <div class="flex items-center gap-4">
+                <img alt="Zomato AI Logo" class="w-10 h-10 rounded-full object-contain" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBMjPnTo089y2Ekhusey93-SvmqnqJPzFC4Y8njCXEeGkMsriEKKgcqNskBHseb6mbE3XN0fllWSIgnecVuxBAFDw80M64gzRelmw4Kovx1MlUcxVDpx7TMGAwHdmyvTm_jXDCW6wUOkfKkGw8MBpFRG-ip37PhBFwa8ifCpBdmglOKz6VbXNInaqe6cvvUoXpPLsvh96PVnXQWq21v2gz-W2zE0141Wpro98vDlkGwVZLmFrKNxCwKsXm3wCy1FXLGcCBmyO9Mu76c" />
+                <div class="flex flex-col">
+                    <span class="font-display-lg text-headline-md font-bold bg-gradient-to-r from-primary to-tertiary bg-clip-text text-transparent">
+                        Zomato AI Recommender
+                    </span>
+                    <div class="flex items-center gap-1.5 mt-0.5">
+                        <div id="connection-dot" class="w-2 h-2 rounded-full bg-tertiary health-dot"></div>
+                        <span id="connection-text" class="text-label-sm font-label-sm text-tertiary tracking-wider uppercase">System Connected</span>
+                    </div>
+                </div>
+            </div>
+            <div class="hidden md:flex items-center gap-8">
+                <div class="relative">
+                    <input class="bg-white/5 border border-white/10 rounded-full px-6 py-2 w-64 focus:outline-none focus:ring-2 focus:ring-primary/20 text-body-md font-body-md transition-all" placeholder="Neural Search..." type="text" disabled />
+                    <span class="material-symbols-outlined absolute right-4 top-1/2 -translate-y-1/2 text-on-surface-variant">search</span>
+                </div>
+                <div class="flex items-center gap-4">
+                    <button class="p-2 text-on-surface-variant hover:text-primary transition-colors hover:bg-white/5 rounded-full" disabled>
+                        <span class="material-symbols-outlined">notifications</span>
+                    </button>
+                    <button class="p-2 text-on-surface-variant hover:text-primary transition-colors hover:bg-white/5 rounded-full" disabled>
+                        <span class="material-symbols-outlined">settings</span>
+                    </button>
+                    <div class="w-10 h-10 rounded-full border-2 border-primary/30 p-0.5">
+                        <div class="w-full h-full rounded-full bg-primary/20 flex items-center justify-center">
+                            <span class="material-symbols-outlined text-primary text-xl">person</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- SideNavBar -->
+    <aside class="fixed left-0 top-0 h-full w-64 z-40 bg-surface-container/30 backdrop-blur-xl border-r border-white/10 flex flex-col pt-24 pb-8 hidden xl:flex">
+        <div class="px-6 mb-8">
+            <div class="flex items-center gap-3 p-4 bg-white/5 rounded-xl border border-white/10">
+                <div class="w-10 h-10 rounded-lg bg-primary/20 flex items-center justify-center">
+                    <span class="material-symbols-outlined text-primary">auto_awesome</span>
+                </div>
+                <div>
+                    <h3 class="font-display-lg text-body-md font-bold text-on-surface">Concierge</h3>
+                    <p class="font-body-md text-label-sm text-on-surface-variant">Precision Dining</p>
+                </div>
+            </div>
+        </div>
+        <nav class="flex-1 px-4 space-y-2">
+            <a class="flex items-center gap-3 px-4 py-3 bg-primary/10 text-primary border-r-4 border-primary rounded-r-lg group transition-transform hover:translate-x-1" href="#">
+                <span class="material-symbols-outlined">explore</span>
+                <span class="font-body-md text-body-md">Discover</span>
+            </a>
+            <a class="flex items-center gap-3 px-4 py-3 text-on-surface-variant hover:text-on-surface hover:bg-white/5 rounded-lg transition-all" href="#">
+                <span class="material-symbols-outlined">auto_awesome</span>
+                <span class="font-body-md text-body-md">Collections</span>
+            </a>
+            <a class="flex items-center gap-3 px-4 py-3 text-on-surface-variant hover:text-on-surface hover:bg-white/5 rounded-lg transition-all" href="#">
+                <span class="material-symbols-outlined">history</span>
+                <span class="font-body-md text-body-md">History</span>
+            </a>
+            <a class="flex items-center gap-3 px-4 py-3 text-on-surface-variant hover:text-on-surface hover:bg-white/5 rounded-lg transition-all" href="#">
+                <span class="material-symbols-outlined">favorite</span>
+                <span class="font-body-md text-body-md">Favorites</span>
+            </a>
+        </nav>
+        <div class="px-4 mt-auto">
+            <button class="w-full py-3 px-4 rounded-xl border border-primary/30 text-primary font-label-md hover:bg-primary/5 transition-all mb-4" disabled>
+                Upgrade to Premium
+            </button>
+            <div class="space-y-1">
+                <a class="flex items-center gap-3 px-4 py-2 text-on-surface-variant hover:text-primary text-label-sm" href="#">
+                    <span class="material-symbols-outlined text-base">help</span>
+                    <span>Help</span>
+                </a>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="flex-1 pt-28 pb-12 px-margin-mobile md:px-margin-desktop xl:pl-72 max-w-[1440px] mx-auto w-full">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 h-full">
+            
+            <!-- Column 1: Preference Panel -->
+            <section class="lg:col-span-5 space-y-6">
+                <header class="mb-6">
+                    <h1 class="font-display-lg text-headline-lg text-on-surface">Dining Preferences</h1>
+                    <p class="font-body-md text-body-md text-on-surface-variant mt-2">
+                        Adjust your criteria to refine the AI's neural matching.
+                    </p>
+                </header>
+                <div class="glass-card p-container-padding rounded-2xl space-y-6">
+                    
+                    <!-- Location Dropdown Select -->
+                    <div>
+                        <label class="block font-label-md text-label-md text-on-surface-variant mb-2.5">Target City</label>
+                        <div class="relative">
+                            <select id="location-select" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 pr-10 focus:ring-2 focus:ring-primary/20 text-on-surface focus:outline-none transition-all appearance-none cursor-pointer">
+                                <option class="bg-surface-container" value="" disabled selected>Loading locations...</option>
+                            </select>
+                            <span class="material-symbols-outlined absolute right-4 top-1/2 -translate-y-1/2 text-on-surface-variant pointer-events-none">expand_more</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Cuisine Autocomplete Input -->
+                    <div>
+                        <label class="block font-label-md text-label-md text-on-surface-variant mb-2.5">Preferred Cuisine</label>
+                        <div class="relative">
+                            <input id="cuisine-input" list="cuisines-list" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 pl-11 focus:ring-2 focus:ring-primary/20 text-on-surface focus:outline-none transition-all" placeholder="Type or select a cuisine..." type="text" />
+                            <span class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-on-surface-variant text-body-lg">restaurant</span>
+                            <datalist id="cuisines-list">
+                                <!-- Populated dynamically from API -->
+                            </datalist>
+                        </div>
+                    </div>
+                    
+                    <!-- Budget Pill Selection -->
+                    <div>
+                        <label class="block font-label-md text-label-md text-on-surface-variant mb-2.5">Spending Profile</label>
+                        <div class="grid grid-cols-3 gap-3">
+                            <button id="btn-budget-low" data-budget="low" class="budget-btn py-3 px-4 rounded-xl border border-white/10 bg-white/5 text-on-surface hover:border-primary/50 transition-all font-label-md">
+                                Low
+                            </button>
+                            <button id="btn-budget-medium" data-budget="medium" class="budget-btn py-3 px-4 rounded-xl border-2 border-primary bg-primary/10 text-primary transition-all font-label-md shadow-[0_0_15px_rgba(192,193,255,0.2)]">
+                                Medium
+                            </button>
+                            <button id="btn-budget-high" data-budget="high" class="budget-btn py-3 px-4 rounded-xl border border-white/10 bg-white/5 text-on-surface hover:border-primary/50 transition-all font-label-md">
+                                High
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <!-- Star Rating Select -->
+                    <div>
+                        <label class="block font-label-md text-label-md text-on-surface-variant mb-2.5">Minimum Rating</label>
+                        <div class="flex items-center gap-1.5" id="star-rating-container">
+                            <button data-rating="1" class="star-btn p-1 hover:scale-115 transition-transform">
+                                <span class="material-symbols-outlined text-tertiary" style="font-variation-settings: 'FILL' 1;">star</span>
+                            </button>
+                            <button data-rating="2" class="star-btn p-1 hover:scale-115 transition-transform">
+                                <span class="material-symbols-outlined text-tertiary" style="font-variation-settings: 'FILL' 1;">star</span>
+                            </button>
+                            <button data-rating="3" class="star-btn p-1 hover:scale-115 transition-transform">
+                                <span class="material-symbols-outlined text-tertiary" style="font-variation-settings: 'FILL' 1;">star</span>
+                            </button>
+                            <button data-rating="4" class="star-btn p-1 hover:scale-115 transition-transform">
+                                <span class="material-symbols-outlined text-tertiary" style="font-variation-settings: 'FILL' 1;">star</span>
+                            </button>
+                            <button data-rating="5" class="star-btn p-1 hover:scale-115 transition-transform">
+                                <span class="material-symbols-outlined text-on-surface-variant">star</span>
+                            </button>
+                            <span id="rating-value" class="ml-3 font-body-md text-on-surface font-bold text-xl">4.0+</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Special Preferences Textarea -->
+                    <div>
+                        <label class="block font-label-md text-label-md text-on-surface-variant mb-2.5">Special Requirements</label>
+                        <textarea id="additional-preferences" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 focus:ring-2 focus:ring-primary/20 text-on-surface focus:outline-none transition-all resize-none" placeholder="e.g., Rooftop seating, quiet for conversation, authentic spices, quick service..." rows="3"></textarea>
+                    </div>
+                    
+                    <!-- Action Submit Button -->
+                    <button id="generate-btn" class="w-full py-4 rounded-xl gradient-button text-white font-display-lg text-body-lg flex items-center justify-center gap-3 active:scale-95">
+                        <span class="material-symbols-outlined">auto_awesome</span>
+                        Generate AI Recommendations
+                    </button>
+                </div>
+            </section>
+
+            <!-- Column 2: Recommendations Display -->
+            <section class="lg:col-span-7 flex flex-col gap-6" id="display-section">
+                
+                <!-- Error Banner -->
+                <div id="error-banner" class="hidden p-5 bg-error-container/20 border border-error/30 rounded-2xl flex items-start gap-4">
+                    <span class="material-symbols-outlined text-error text-3xl">error</span>
+                    <div>
+                        <h4 class="font-bold text-error text-headline-sm">Query Failed</h4>
+                        <p id="error-message" class="text-on-error-container text-body-md mt-1">Error message goes here...</p>
+                    </div>
+                </div>
+
+                <!-- Relaxation Notice Banner -->
+                <div id="relaxation-banner" class="hidden p-5 bg-amber-500/10 border border-amber-500/30 rounded-2xl flex items-start gap-4">
+                    <span class="material-symbols-outlined text-amber-500 text-3xl">info</span>
+                    <div>
+                        <h4 class="font-bold text-amber-500 text-headline-sm">Adjusted Search Criteria</h4>
+                        <p id="relaxation-message" class="text-amber-200/90 text-body-md mt-1">We relaxed some of your filters to bring you the best matches.</p>
+                    </div>
+                </div>
+
+                <!-- Empty State / Workflow Introduction -->
+                <div class="glass-card p-12 rounded-3xl flex flex-col items-center text-center" id="empty-state">
+                    <div class="w-24 h-24 rounded-full bg-primary/10 flex items-center justify-center mb-8 relative">
+                        <span class="material-symbols-outlined text-primary text-5xl">cognition</span>
+                        <div class="absolute inset-0 border border-primary/20 rounded-full animate-ping"></div>
+                    </div>
+                    <h2 class="font-display-lg text-headline-lg mb-4">Neural Dining Intelligence</h2>
+                    <p class="text-on-surface-variant font-body-md max-w-md mx-auto mb-10">
+                        Our AI agents are ready to scan the restaurant database to curate your perfect dining experience.
+                    </p>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 w-full">
+                        <div class="p-6 bg-white/5 rounded-2xl border border-white/5">
+                            <div class="w-10 h-10 rounded-lg bg-tertiary-container flex items-center justify-center mx-auto mb-4">
+                                <span class="material-symbols-outlined text-white text-xl">filter_alt</span>
+                            </div>
+                            <h4 class="font-bold mb-2">Filter</h4>
+                            <p class="text-label-sm text-on-surface-variant">Matching location, rating, and budget constraints.</p>
+                        </div>
+                        <div class="p-6 bg-white/5 rounded-2xl border border-white/5">
+                            <div class="w-10 h-10 rounded-lg bg-primary-container flex items-center justify-center mx-auto mb-4">
+                                <span class="material-symbols-outlined text-white text-xl">trending_up</span>
+                            </div>
+                            <h4 class="font-bold mb-2">Rank</h4>
+                            <p class="text-label-sm text-on-surface-variant">Sorting candidate pools based on quality indicators.</p>
+                        </div>
+                        <div class="p-6 bg-white/5 rounded-2xl border border-white/5">
+                            <div class="w-10 h-10 rounded-lg bg-secondary-container flex items-center justify-center mx-auto mb-4">
+                                <span class="material-symbols-outlined text-white text-xl">forum</span>
+                            </div>
+                            <h4 class="font-bold mb-2">Explain</h4>
+                            <p class="text-label-sm text-on-surface-variant">Groq LLM explaining why each fits your preferences.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Loading State (Shimmer Skeleton Cards) -->
+                <div class="hidden space-y-6" id="loading-state">
+                    <div class="glass-card p-6 rounded-2xl space-y-6">
+                        <div class="space-y-3">
+                            <div class="h-6 w-1/3 bg-white/5 rounded shimmer"></div>
+                            <div class="h-4 w-5/6 bg-white/5 rounded shimmer"></div>
+                        </div>
+                    </div>
+                    <div class="space-y-4">
+                        <div class="glass-card p-6 rounded-2xl flex flex-col gap-4 animate-pulse">
+                            <div class="flex justify-between items-start">
+                                <div class="h-6 w-1/3 bg-white/5 rounded shimmer"></div>
+                                <div class="h-6 w-12 bg-white/5 rounded-lg shimmer"></div>
+                            </div>
+                            <div class="flex gap-2">
+                                <div class="h-5 w-16 bg-white/5 rounded shimmer"></div>
+                                <div class="h-5 w-20 bg-white/5 rounded shimmer"></div>
+                                <div class="h-5 w-24 bg-white/5 rounded shimmer"></div>
+                            </div>
+                            <div class="h-16 w-full bg-white/5 rounded-xl shimmer"></div>
+                        </div>
+                        <div class="glass-card p-6 rounded-2xl flex flex-col gap-4 animate-pulse">
+                            <div class="flex justify-between items-start">
+                                <div class="h-6 w-1/4 bg-white/5 rounded shimmer"></div>
+                                <div class="h-6 w-12 bg-white/5 rounded-lg shimmer"></div>
+                            </div>
+                            <div class="flex gap-2">
+                                <div class="h-5 w-16 bg-white/5 rounded shimmer"></div>
+                                <div class="h-5 w-24 bg-white/5 rounded shimmer"></div>
+                            </div>
+                            <div class="h-16 w-full bg-white/5 rounded-xl shimmer"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Results Output Container -->
+                <div id="results-container" class="hidden space-y-6">
+                    
+                    <!-- Overview Summary Block -->
+                    <div id="results-summary-card" class="glass-card p-6 rounded-2xl border-l-4 border-primary">
+                        <div class="flex items-center gap-3 mb-2 text-primary">
+                            <span class="material-symbols-outlined">insights</span>
+                            <h3 class="font-display-lg text-headline-sm font-bold">Neural Scan Summary</h3>
+                        </div>
+                        <p id="results-summary-text" class="text-body-md text-on-surface font-light leading-relaxed">
+                            Overview text populated dynamically.
+                        </p>
+                    </div>
+
+                    <!-- Recommendations List -->
+                    <div id="results-list" class="space-y-6">
+                        <!-- Populated dynamically via JS -->
+                    </div>
+                </div>
+
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="w-full py-8 mt-auto bg-background border-t border-white/5">
+        <div class="flex flex-col md:flex-row justify-between items-center px-margin-desktop gap-4 w-full max-w-[1440px] mx-auto">
+            <div class="flex items-center gap-2">
+                <span class="text-label-md font-bold text-primary">Zomato AI Concierge</span>
+                <span class="text-on-surface-variant/30 px-2">|</span>
+                <p class="font-label-sm text-label-sm text-on-surface-variant">Powered by Neural Search &amp; Groq Llama-3.3.</p>
+            </div>
+            <div class="flex gap-6">
+                <span class="text-label-sm text-on-surface-variant flex items-center gap-1.5">
+                    <div id="footer-health-dot" class="w-1.5 h-1.5 bg-tertiary rounded-full"></div>
+                    API Status: <span id="footer-health-text" class="font-medium text-tertiary">checking...</span>
+                </span>
+            </div>
+        </div>
+    </footer>
+
+    <!-- App Logic Script -->
+    <script src="/static/app.js"></script>
+</body>
+</html>

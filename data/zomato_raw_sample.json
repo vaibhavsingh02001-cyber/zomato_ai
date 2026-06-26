@@ -1,0 +1,4202 @@
+[
+  {
+    "name": "Jalsa",
+    "rate": "4.1/5",
+    "cuisines": "North Indian, Mughlai, Chinese",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Spice Elephant",
+    "rate": "4.1/5",
+    "cuisines": "Chinese, North Indian, Thai",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "San Churro Cafe",
+    "rate": "3.8/5",
+    "cuisines": "Cafe, Mexican, Italian",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Addhuri Udupi Bhojana",
+    "rate": "3.7/5",
+    "cuisines": "South Indian, North Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Grand Village",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Rajasthani",
+    "approx_cost(for two people)": "600",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Timepass Dinner",
+    "rate": "3.8/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "600",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Rosewood International Hotel - Bar & Restaurant",
+    "rate": "3.6/5",
+    "cuisines": "North Indian, South Indian, Andhra, Chinese",
+    "approx_cost(for two people)": "800",
+    "location": "Chandni Chowk"
+  },
+  {
+    "name": "Onesta",
+    "rate": "4.6/5",
+    "cuisines": "Pizza, Cafe, Italian",
+    "approx_cost(for two people)": "600",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Penthouse Cafe",
+    "rate": "4.0/5",
+    "cuisines": "Cafe, Italian, Continental",
+    "approx_cost(for two people)": "700",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Smacznego",
+    "rate": "4.2/5",
+    "cuisines": "Cafe, Mexican, Italian, Momos, Beverages",
+    "approx_cost(for two people)": "550",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley",
+    "rate": "4.1/5",
+    "cuisines": "Cafe",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Cafe Shuffle",
+    "rate": "4.2/5",
+    "cuisines": "Cafe, Italian, Continental",
+    "approx_cost(for two people)": "600",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "The Coffee Shack",
+    "rate": "4.2/5",
+    "cuisines": "Cafe, Chinese, Continental, Italian",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Caf-Eleven",
+    "rate": "4.0/5",
+    "cuisines": "Cafe, Continental",
+    "approx_cost(for two people)": "450",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Cafe Vivacity",
+    "rate": "3.8/5",
+    "cuisines": "Cafe",
+    "approx_cost(for two people)": "650",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Catch-up-ino",
+    "rate": "3.9/5",
+    "cuisines": "Cafe, Fast Food, Continental, Chinese, Momos",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Kirthi's Biryani",
+    "rate": "3.8/5",
+    "cuisines": "Chinese, Cafe, Italian",
+    "approx_cost(for two people)": "700",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "T3H Cafe",
+    "rate": "3.9/5",
+    "cuisines": "Cafe, Italian, American",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "360 Atoms Restaurant And Cafe",
+    "rate": "3.1/5",
+    "cuisines": "Cafe, Chinese, Continental, Italian",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "The Vintage Cafe",
+    "rate": "3.0/5",
+    "cuisines": "Cafe, French, North Indian",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Woodee Pizza",
+    "rate": "3.7/5",
+    "cuisines": "Cafe, Pizza, Fast Food, Beverages",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Cafe Coffee Day",
+    "rate": "3.6/5",
+    "cuisines": "Cafe, Fast Food",
+    "approx_cost(for two people)": "900",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "My Tea House",
+    "rate": "3.6/5",
+    "cuisines": "Italian, Fast Food, Cafe, European",
+    "approx_cost(for two people)": "600",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Hide Out Cafe",
+    "rate": "3.7/5",
+    "cuisines": "Cafe",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "CAFE NOVA",
+    "rate": "3.2/5",
+    "cuisines": "Cafe, Bakery",
+    "approx_cost(for two people)": "600",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Coffee Tindi",
+    "rate": "3.8/5",
+    "cuisines": "Cafe, South Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sea Green Cafe",
+    "rate": "3.3/5",
+    "cuisines": "Cafe, Fast Food, Beverages",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Cuppa",
+    "rate": "3.3/5",
+    "cuisines": "Cafe, Fast Food",
+    "approx_cost(for two people)": "550",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Srinathji's Cafe",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Cafe, Chinese, Fast Food",
+    "approx_cost(for two people)": "550",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Redberrys",
+    "rate": "4.0/5",
+    "cuisines": "Cafe, Italian",
+    "approx_cost(for two people)": "600",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Foodiction",
+    "rate": "2.8/5",
+    "cuisines": "North Indian, Fast Food, Chinese, Burger",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sweet Truth",
+    "rate": "3.9/5",
+    "cuisines": "Bakery, Desserts",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Ovenstory Pizza",
+    "rate": "3.9/5",
+    "cuisines": "Pizza",
+    "approx_cost(for two people)": "750",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Faasos",
+    "rate": "4.2/5",
+    "cuisines": "North Indian, Biryani, Fast Food",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Behrouz Biryani",
+    "rate": "3.9/5",
+    "cuisines": "Biryani",
+    "approx_cost(for two people)": "650",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Fast And Fresh",
+    "rate": "2.8/5",
+    "cuisines": "North Indian, Chinese, Fast Food",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Szechuan Dragon",
+    "rate": "4.2/5",
+    "cuisines": "Chinese, Thai, Momos",
+    "approx_cost(for two people)": "600",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Empire Restaurant",
+    "rate": "4.4/5",
+    "cuisines": "North Indian, Mughlai, South Indian, Chinese",
+    "approx_cost(for two people)": "750",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Maruthi Davangere Benne Dosa",
+    "rate": "4.0/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Chaatimes",
+    "rate": "3.8/5",
+    "cuisines": "Street Food, Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Havyaka Mess",
+    "rate": "3.9/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "McDonald's",
+    "rate": "3.9/5",
+    "cuisines": "Burger, Fast Food",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Domino's Pizza",
+    "rate": "3.9/5",
+    "cuisines": "Pizza, Fast Food",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Hotboxit",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Continental, Italian",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Kitchen Garden",
+    "rate": "3.6/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Recipe",
+    "rate": "4.0/5",
+    "cuisines": "North Indian, Chinese, Biryani, Rolls",
+    "approx_cost(for two people)": "450",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Beijing Bites",
+    "rate": "3.7/5",
+    "cuisines": "Chinese, Thai",
+    "approx_cost(for two people)": "850",
+    "location": "South Extension"
+  },
+  {
+    "name": "Tasty Bytes",
+    "rate": "3.1/5",
+    "cuisines": "North Indian, Chinese, Momos, Rolls",
+    "approx_cost(for two people)": "300",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Petoo",
+    "rate": "3.7/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "450",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Shree Cool Point",
+    "rate": "4.1/5",
+    "cuisines": "Fast Food, Street Food, Beverages",
+    "approx_cost(for two people)": "150",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Corner House Ice Cream",
+    "rate": "4.3/5",
+    "cuisines": "Ice Cream, Desserts",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Biryanis And More",
+    "rate": "4.0/5",
+    "cuisines": "Biryani, North Indian, Chinese, Andhra, South Indian",
+    "approx_cost(for two people)": "750",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Roving Feast",
+    "rate": "4.0/5",
+    "cuisines": "Italian, Continental, Fast Food, Chinese, Momos",
+    "approx_cost(for two people)": "450",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "FreshMenu",
+    "rate": "3.9/5",
+    "cuisines": "Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",
+    "approx_cost(for two people)": "450",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Banashankari Donne Biriyani",
+    "rate": "3.8/5",
+    "cuisines": "Biryani, Fast Food",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Wamama",
+    "rate": "4.2/5",
+    "cuisines": "Asian, Korean, Indonesian, Japanese, Chinese, Thai, Momos",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Five Star Chicken",
+    "rate": "3.6/5",
+    "cuisines": "Fast Food, Burger",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "XO Belgian Waffle",
+    "rate": "3.7/5",
+    "cuisines": "Desserts, Beverages",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Peppy Peppers",
+    "rate": "4.2/5",
+    "cuisines": "Italian, North Indian, Mexican",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Goa 0 Km",
+    "rate": "3.6/5",
+    "cuisines": "Goan, Seafood, North Indian, Chinese, Biryani",
+    "approx_cost(for two people)": "800",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Chinese Kitchen",
+    "rate": "3.8/5",
+    "cuisines": "Chinese",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "1947",
+    "rate": "4.0/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "850",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Cake of the Day",
+    "rate": "3.7/5",
+    "cuisines": "Bakery",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Kabab Magic",
+    "rate": "4.1/5",
+    "cuisines": "North Indian, Kebab, Chinese, Fast Food",
+    "approx_cost(for two people)": "400",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Namma Brahmin's Idli",
+    "rate": "3.6/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Gustoes Beer House",
+    "rate": "4.1/5",
+    "cuisines": "Continental, Italian, Mexican, North Indian, Chinese, Steak",
+    "approx_cost(for two people)": "1200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sugar Rush",
+    "rate": "3.8/5",
+    "cuisines": "Bakery, Desserts",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Burger King",
+    "rate": "3.2/5",
+    "cuisines": "Burger, Fast Food, Beverages",
+    "approx_cost(for two people)": "600",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "The Good Bowl",
+    "rate": "3.6/5",
+    "cuisines": "Italian, North Indian, Biryani",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "The Biryani Cafe",
+    "rate": "4.1/5",
+    "cuisines": "Biryani, Chinese, Kebab",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "LSD Cafe",
+    "rate": "2.9/5",
+    "cuisines": "Chinese, Continental, Italian, North Indian",
+    "approx_cost(for two people)": "700",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Rolls On Wheels",
+    "rate": "3.6/5",
+    "cuisines": "Fast Food, Rolls, Momos",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sri Guru Kottureshwara Davangere Benne Dosa",
+    "rate": "4.1/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Devanna Dum Biriyani Centre",
+    "rate": "3.6/5",
+    "cuisines": "Biryani, South Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Kolbeh",
+    "rate": "3.7/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Upahar Sagar",
+    "rate": "3.8/5",
+    "cuisines": "South Indian, Chinese, North Indian",
+    "approx_cost(for two people)": "350",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Kadalu Sea Food Restaurant",
+    "rate": "3.8/5",
+    "cuisines": "Seafood, North Indian, Chinese, Andhra, Biryani, Kebab",
+    "approx_cost(for two people)": "500",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Frozen Bottle",
+    "rate": "4.2/5",
+    "cuisines": "Beverages, Desserts, Ice Cream",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Parimala Sweets",
+    "rate": "3.5/5",
+    "cuisines": "Mithai, Street Food",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Vaishali Deluxe",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "700",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "The Big O Bakes",
+    "rate": "4.0/5",
+    "cuisines": "Bakery, Desserts",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Meghana Foods",
+    "rate": "4.4/5",
+    "cuisines": "Biryani, North Indian, Chinese",
+    "approx_cost(for two people)": "600",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Krishna Sagar",
+    "rate": "3.5/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Dessert Rose",
+    "rate": "3.5/5",
+    "cuisines": "Desserts",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Chickpet Donne Biryani House",
+    "rate": "3.7/5",
+    "cuisines": "Biryani",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Thanco's Natural Ice Creams",
+    "rate": "3.2/5",
+    "cuisines": "Ice Cream",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Nandhini Deluxe",
+    "rate": "2.6/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "600",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Vi Ra's Bar and Restaurant",
+    "rate": "3.3/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Kaggis",
+    "rate": "3.8/5",
+    "cuisines": "Fast Food, Bakery",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Ayda Persian Kitchen",
+    "rate": "3.7/5",
+    "cuisines": "North Indian, Iranian",
+    "approx_cost(for two people)": "950",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Chatar Patar",
+    "rate": "3.7/5",
+    "cuisines": "Fast Food, Street Food",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Polar Bear",
+    "rate": "3.8/5",
+    "cuisines": "Ice Cream, Desserts, Beverages, Sandwich",
+    "approx_cost(for two people)": "400",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Kidambi's Kitchen",
+    "rate": "3.5/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Mane Thindi",
+    "rate": "3.7/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Kotian Karavali Restaurant",
+    "rate": "3.5/5",
+    "cuisines": "South Indian, Biryani",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Floured-Baked With Love",
+    "rate": "3.8/5",
+    "cuisines": "Bakery",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Cakes & Slices",
+    "rate": "3.5/5",
+    "cuisines": "Bakery, Desserts",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Spice 9",
+    "rate": "3.4/5",
+    "cuisines": "Biryani, North Indian, Chinese, Fast Food",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Naveen Kabab & Biriyani Mane",
+    "rate": "3.2/5",
+    "cuisines": "Biryani",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Katriguppe Donne Biryani",
+    "rate": "3.2/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Atithi Point Ande Ka Funda",
+    "rate": "3.1/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Just Bake",
+    "rate": "3.4/5",
+    "cuisines": "Bakery, Desserts",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "K27 - The Pub",
+    "rate": "3.1/5",
+    "cuisines": "Chinese, North Indian",
+    "approx_cost(for two people)": "1000",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Bengaluru Coffee House",
+    "rate": "4.1/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "New Mangalore Lunch Home",
+    "rate": "3.3/5",
+    "cuisines": "Mangalorean, South Indian, North Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Coffee Bytes",
+    "rate": "3.1/5",
+    "cuisines": "Fast Food, South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Parjanya Chat Zone",
+    "rate": "3.3/5",
+    "cuisines": "Street Food, Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Kwality Wall's Swirl's Happiness Station",
+    "rate": "2.9/5",
+    "cuisines": "Ice Cream, Desserts",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Ruchi Maayaka",
+    "rate": "3.3/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Anna Kuteera",
+    "rate": "4.0/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "450",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Darbar",
+    "rate": "3.0/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Vijayalakshmi",
+    "rate": "3.9/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Sri Udupi Food Hub",
+    "rate": "4.1/5",
+    "cuisines": "South Indian, North Indian, Chinese, Beverages",
+    "approx_cost(for two people)": "500",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Udupi Upahar",
+    "rate": "3.8/5",
+    "cuisines": "South Indian, Chinese, North Indian, Juices",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "House Of Kebabs",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Kebab, Biryani, Chinese",
+    "approx_cost(for two people)": "650",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Roll N Rock",
+    "rate": "3.8/5",
+    "cuisines": "Chinese, North Indian, Mughlai, Rolls",
+    "approx_cost(for two people)": "400",
+    "location": "Dwarka"
+  },
+  {
+    "name": "BOX8- Desi Meals",
+    "rate": "4.1/5",
+    "cuisines": "North Indian, Mughlai, Fast Food",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "KFC",
+    "rate": "3.8/5",
+    "cuisines": "Burger, Fast Food",
+    "approx_cost(for two people)": "450",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Roll Over",
+    "rate": "4.1/5",
+    "cuisines": "Desserts, Ice Cream, Beverages, Fast Food, Sandwich",
+    "approx_cost(for two people)": "500",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Imperial Restaurant",
+    "rate": "3.7/5",
+    "cuisines": "North Indian, Chinese, Biryani, Beverages",
+    "approx_cost(for two people)": "750",
+    "location": "Chandni Chowk"
+  },
+  {
+    "name": "Lassi Shop",
+    "rate": "3.9/5",
+    "cuisines": "Beverages, Juices, Ice Cream",
+    "approx_cost(for two people)": "150",
+    "location": "Dwarka"
+  },
+  {
+    "name": "The Fortuna",
+    "rate": "3.0/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "250",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Wahab",
+    "rate": "3.7/5",
+    "cuisines": "North Indian, Mughlai, Chinese",
+    "approx_cost(for two people)": "350",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Al Diwan Biryanis And More",
+    "rate": "3.3/5",
+    "cuisines": "Biryani",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "New Gowda's Fried Chicken",
+    "rate": "3.3/5",
+    "cuisines": "Biryani",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Canton",
+    "rate": "3.6/5",
+    "cuisines": "Chinese, Seafood, Biryani",
+    "approx_cost(for two people)": "800",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Diabetics Dezire Sugarless Sweets and Bakes",
+    "rate": "3.3/5",
+    "cuisines": "Desserts, Mithai",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "The Blue Wagon - Kitchen",
+    "rate": "4.6/5",
+    "cuisines": "Cafe, Beverages",
+    "approx_cost(for two people)": "400",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "HOT COFFEE",
+    "rate": "4.1/5",
+    "cuisines": "South Indian, Chinese",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Patio 805",
+    "rate": "4.1/5",
+    "cuisines": "Thai, Vietnamese, Asian, Chinese",
+    "approx_cost(for two people)": "1200",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Lassi Corner",
+    "rate": "3.7/5",
+    "cuisines": "Beverages, Ice Cream",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Sagar Deluxe",
+    "rate": "3.2/5",
+    "cuisines": "South Indian, North Indian, Chinese, Juices",
+    "approx_cost(for two people)": "300",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Kanti Sweets",
+    "rate": "4.0/5",
+    "cuisines": "Mithai, Street Food",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Vegetalia",
+    "rate": "3.7/5",
+    "cuisines": "Italian, Pizza",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Aramane Donne Biryani",
+    "rate": "3.5/5",
+    "cuisines": "Biryani",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Ande Ka Funda",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Fast Food, Rolls",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Cake Ghar",
+    "rate": "3.8/5",
+    "cuisines": "Bakery",
+    "approx_cost(for two people)": "400",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Energy Addaa",
+    "rate": "4.2/5",
+    "cuisines": "Salad, Healthy Food, Sandwich, Juices, Burger, Desserts, Pizza",
+    "approx_cost(for two people)": "500",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Bhattara Bhojana",
+    "rate": "3.6/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Tandoori Knight",
+    "rate": "3.0/5",
+    "cuisines": "North Indian, Chinese, Biryani, Kebab",
+    "approx_cost(for two people)": "450",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Dev Sagar - Food Street",
+    "rate": "4.1/5",
+    "cuisines": "Street Food",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Mitraa Da Pizza",
+    "rate": "3.8/5",
+    "cuisines": "Fast Food, Pizza",
+    "approx_cost(for two people)": "250",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Paradise Premium",
+    "rate": "3.1/5",
+    "cuisines": "Biryani, Andhra, Hyderabadi, North Indian",
+    "approx_cost(for two people)": "700",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Grazers",
+    "rate": "3.9/5",
+    "cuisines": "Cafe, Burger, Continental, Italian, Desserts",
+    "approx_cost(for two people)": "650",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Shakes Theory",
+    "rate": "4.5/5",
+    "cuisines": "Beverages, Sandwich",
+    "approx_cost(for two people)": "300",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "@Italy",
+    "rate": "4.1/5",
+    "cuisines": "Italian",
+    "approx_cost(for two people)": "700",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Chilli Flakes",
+    "rate": "3.6/5",
+    "cuisines": "Fast Food, Italian, Beverages",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Calcutta Cafe",
+    "rate": "3.5/5",
+    "cuisines": "Bengali, Chinese, Sandwich",
+    "approx_cost(for two people)": "350",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Old Mumbai Ice Cream",
+    "rate": "3.9/5",
+    "cuisines": "Ice Cream",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Donne Biriyani House",
+    "rate": "3.9/5",
+    "cuisines": "South Indian, North Indian, Chinese, Biryani",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "By 2 Coffee",
+    "rate": "3.9/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Kedia's Fun Food",
+    "rate": "4.3/5",
+    "cuisines": "North Indian, Street Food, Juices",
+    "approx_cost(for two people)": "200",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Davangere Butter Dosa Hotel",
+    "rate": "3.8/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "150",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Just Shawarma",
+    "rate": "3.9/5",
+    "cuisines": "Arabian",
+    "approx_cost(for two people)": "300",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Mini Punjabi Dhaba",
+    "rate": "4.2/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "350",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Mulabagilu Dosa",
+    "rate": "3.6/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Gokul Veg",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Chinese, Beverages",
+    "approx_cost(for two people)": "750",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Olive - Era",
+    "rate": "3.3/5",
+    "cuisines": "BBQ, Arabian, Rolls, Chinese, North Indian, Juices, Kebab, Desserts",
+    "approx_cost(for two people)": "550",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Udupi Ruchi",
+    "rate": "3.9/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Madhappa Hindu Military Hotel",
+    "rate": "3.4/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Gama Gama",
+    "rate": "3.9/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Pizza Hut",
+    "rate": "3.8/5",
+    "cuisines": "Pizza, Fast Food",
+    "approx_cost(for two people)": "750",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Mangalore Pearl",
+    "rate": "3.8/5",
+    "cuisines": "Mangalorean, Seafood, Chinese, Biryani",
+    "approx_cost(for two people)": "650",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Asha Sweets Centre",
+    "rate": "3.6/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "250",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Twiststick House",
+    "rate": "4.1/5",
+    "cuisines": "Continental, Fast Food, Street Food, Momos",
+    "approx_cost(for two people)": "500",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Cool Corner",
+    "rate": "4.2/5",
+    "cuisines": "Street Food, Fast Food",
+    "approx_cost(for two people)": "250",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Pizza Mane",
+    "rate": "3.5/5",
+    "cuisines": "Pizza, Sandwich, Burger, Fast Food",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Dal Tadkaa",
+    "rate": "2.5/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Chutney Chang",
+    "rate": "4.1/5",
+    "cuisines": "North Indian, Chinese, BBQ",
+    "approx_cost(for two people)": "1500",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Mystique Palate",
+    "rate": "4.1/5",
+    "cuisines": "Chinese, Fast Food",
+    "approx_cost(for two people)": "300",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Thamboola",
+    "rate": "3.9/5",
+    "cuisines": "North Indian, Chinese, Continental",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Castle Rock",
+    "rate": "3.6/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "700",
+    "location": "Vasant Kunj"
+  },
+  {
+    "name": "Vietnamese Kitchen",
+    "rate": "3.6/5",
+    "cuisines": "Vietnamese",
+    "approx_cost(for two people)": "700",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "C Corner",
+    "rate": "3.2/5",
+    "cuisines": "Fast Food, Street Food",
+    "approx_cost(for two people)": "200",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Paratha Merchant",
+    "rate": "3.1/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Dwarka"
+  },
+  {
+    "name": "North Rasoe",
+    "rate": "3.1/5",
+    "cuisines": "North Indian, Chinese, Biryani, Kebab",
+    "approx_cost(for two people)": "500",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Toscano",
+    "rate": "4.3/5",
+    "cuisines": "Italian, Salad",
+    "approx_cost(for two people)": "1300",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Lord Of The Kitchen",
+    "rate": "3.9/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "350",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Stoned Monkey",
+    "rate": "4.3/5",
+    "cuisines": "Desserts, Ice Cream",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Central Jail Restaurant",
+    "rate": "3.8/5",
+    "cuisines": "Andhra, Seafood, North Indian, Chinese",
+    "approx_cost(for two people)": "700",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Bella",
+    "rate": "3.9/5",
+    "cuisines": "Mangalorean, Seafood, South Indian",
+    "approx_cost(for two people)": "1000",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Vennela Andhra Meals",
+    "rate": "3.0/5",
+    "cuisines": "Andhra",
+    "approx_cost(for two people)": "400",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "New Prashanth Hotel",
+    "rate": "3.6/5",
+    "cuisines": "South Indian, Biryani, Chinese, North Indian",
+    "approx_cost(for two people)": "750",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "The Grillo",
+    "rate": "2.8/5",
+    "cuisines": "South Indian, Arabian, Chinese, North Indian, Seafood, Mangalorean",
+    "approx_cost(for two people)": "500",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Re Malnad Nati Style Hotel",
+    "rate": "3.6/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "400",
+    "location": "Saket"
+  },
+  {
+    "name": "Karma Kaapi",
+    "rate": "4.4/5",
+    "cuisines": "Beverages, Tea",
+    "approx_cost(for two people)": "250",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Tiwari's",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Street Food",
+    "approx_cost(for two people)": "200",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Pizza Stop",
+    "rate": "3.8/5",
+    "cuisines": "Pizza, Italian",
+    "approx_cost(for two people)": "600",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Biggies Burger 'n' More",
+    "rate": "3.6/5",
+    "cuisines": "Cafe, Burger, Beverages",
+    "approx_cost(for two people)": "650",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Kollapuri's",
+    "rate": "3.9/5",
+    "cuisines": "South Indian, Mangalorean",
+    "approx_cost(for two people)": "450",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Kadamba Classic",
+    "rate": "3.6/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Chandni Chowk"
+  },
+  {
+    "name": "RS Shiv Sagar",
+    "rate": "3.7/5",
+    "cuisines": "North Indian, Chinese, South Indian, Fast Food, Juices",
+    "approx_cost(for two people)": "450",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Kholi Mane",
+    "rate": "3.6/5",
+    "cuisines": "Andhra, South Indian, Biryani, North Indian",
+    "approx_cost(for two people)": "450",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Harshi Super Sandwich",
+    "rate": "3.8/5",
+    "cuisines": "Fast Food, Street Food",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Cake Yard",
+    "rate": "3.4/5",
+    "cuisines": "Desserts",
+    "approx_cost(for two people)": "250",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Sri Udupi Veg",
+    "rate": "3.3/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "250",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Cake Art",
+    "rate": "3.5/5",
+    "cuisines": "Bakery",
+    "approx_cost(for two people)": "400",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Potato House",
+    "rate": "3.4/5",
+    "cuisines": "Street Food",
+    "approx_cost(for two people)": "200",
+    "location": "Vasant Kunj"
+  },
+  {
+    "name": "Matru Sagar",
+    "rate": "3.7/5",
+    "cuisines": "South Indian, North Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Chandni Chowk"
+  },
+  {
+    "name": "Ugadi",
+    "rate": "2.9/5",
+    "cuisines": "North Indian, Chinese, Biryani, Andhra, Mangalorean",
+    "approx_cost(for two people)": "700",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Sri Krishna Sweets",
+    "rate": "3.7/5",
+    "cuisines": "Mithai, Desserts",
+    "approx_cost(for two people)": "250",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "In Time Cane Juice",
+    "rate": "3.5/5",
+    "cuisines": "Juices, Beverages",
+    "approx_cost(for two people)": "100",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Subway",
+    "rate": "3.7/5",
+    "cuisines": "Salad, Fast Food",
+    "approx_cost(for two people)": "600",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Daal Roti",
+    "rate": "2.9/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "250",
+    "location": "Dwarka"
+  },
+  {
+    "name": "The Lassi Park",
+    "rate": "4.1/5",
+    "cuisines": "Juices, Desserts",
+    "approx_cost(for two people)": "200",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Cafe Coffee Day",
+    "rate": "3.2/5",
+    "cuisines": "Cafe, Fast Food",
+    "approx_cost(for two people)": "900",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "A2B - Adyar Ananda Bhavan",
+    "rate": "3.8/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "400",
+    "location": "Chandni Chowk"
+  },
+  {
+    "name": "Srikrishna Bhavan",
+    "rate": "3.8/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Green Gardenia",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "700",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "J Spice",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "750",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Karavali Family Restaurant",
+    "rate": "3.5/5",
+    "cuisines": "Seafood, Biryani, South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "500",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Karavali Lunch Home",
+    "rate": "3.7/5",
+    "cuisines": "South Indian, Mangalorean",
+    "approx_cost(for two people)": "350",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Hatti Kaapi",
+    "rate": "4.0/5",
+    "cuisines": "South Indian, Beverages",
+    "approx_cost(for two people)": "200",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Kolkata Kathi Roll's",
+    "rate": "3.6/5",
+    "cuisines": "Fast Food, Rolls",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Upahara Darshini",
+    "rate": "3.9/5",
+    "cuisines": "North Indian, Chinese, South Indian, Fast Food",
+    "approx_cost(for two people)": "600",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "The Chaat Shop",
+    "rate": "2.5/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Anda Ka Funda",
+    "rate": "3.4/5",
+    "cuisines": "North Indian, Chinese, Rolls",
+    "approx_cost(for two people)": "250",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Shri Vinayaka Ice N Juice",
+    "rate": "3.2/5",
+    "cuisines": "Beverages, Fast Food",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Ibaco",
+    "rate": "3.9/5",
+    "cuisines": "Desserts",
+    "approx_cost(for two people)": "300",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Jalaram Sweets",
+    "rate": "3.8/5",
+    "cuisines": "Desserts, Mithai",
+    "approx_cost(for two people)": "250",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Samskruti - Sanman Gardenia",
+    "rate": "4.1/5",
+    "cuisines": "North Indian, Chinese, South Indian",
+    "approx_cost(for two people)": "550",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Bendakaluru Bytes",
+    "rate": "3.2/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "300",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Cocoa Bakes",
+    "rate": "3.6/5",
+    "cuisines": "Bakery, Desserts",
+    "approx_cost(for two people)": "350",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Chumma Delicious",
+    "rate": "3.7/5",
+    "cuisines": "South Indian, Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "New Prashanth Hotel",
+    "rate": "3.9/5",
+    "cuisines": "Biryani, North Indian, Seafood, Andhra",
+    "approx_cost(for two people)": "650",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Dwaraka Grand",
+    "rate": "3.9/5",
+    "cuisines": "South Indian, Chinese, Street Food, Juices",
+    "approx_cost(for two people)": "500",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Gufha - The President Hotel",
+    "rate": "4.1/5",
+    "cuisines": "North Indian, Afghani, Mughlai",
+    "approx_cost(for two people)": "1200",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Tanna's Kitchen",
+    "rate": "3.1/5",
+    "cuisines": "Italian, Chinese, Street Food",
+    "approx_cost(for two people)": "250",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Shree Mandarathi Grand",
+    "rate": "3.7/5",
+    "cuisines": "South Indian, North Indian",
+    "approx_cost(for two people)": "400",
+    "location": "Vasant Kunj"
+  },
+  {
+    "name": "Mojo Pizza - 2X Toppings",
+    "rate": "4.2/5",
+    "cuisines": "Pizza",
+    "approx_cost(for two people)": "600",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Iceberg Icecreams",
+    "rate": "4.0/5",
+    "cuisines": "Desserts, Ice Cream",
+    "approx_cost(for two people)": "250",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "South Kitchen",
+    "rate": "4.3/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Chung Wah",
+    "rate": "3.7/5",
+    "cuisines": "Chinese, Thai, Momos",
+    "approx_cost(for two people)": "850",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Shanthi Sagar",
+    "rate": "3.1/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "400",
+    "location": "Vasant Kunj"
+  },
+  {
+    "name": "Millet Mama",
+    "rate": "3.9/5",
+    "cuisines": "South Indian, Healthy Food",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Bangarpet Chat Express",
+    "rate": "3.3/5",
+    "cuisines": "Street Food, Fast Food",
+    "approx_cost(for two people)": "100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Prems Graama Bhojanam",
+    "rate": "4.3/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "400",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Java City",
+    "rate": "2.6/5",
+    "cuisines": "Cafe, American, Pizza",
+    "approx_cost(for two people)": "450",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Kamat Bugle Rock",
+    "rate": "3.9/5",
+    "cuisines": "South Indian, Fast Food",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Puliyogare Point",
+    "rate": "4.2/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Bangalore Agarwal Bhavan",
+    "rate": "3.9/5",
+    "cuisines": "Street Food, North Indian, South Indian",
+    "approx_cost(for two people)": "400",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Rustic Stove",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, South Indian, Biryani, Beverages",
+    "approx_cost(for two people)": "900",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Udupi Ruchi Grand",
+    "rate": "4.2/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "De Thaali",
+    "rate": "3.9/5",
+    "cuisines": "North Indian, Chinese, Rolls",
+    "approx_cost(for two people)": "550",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Just Thindi",
+    "rate": "3.6/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Matru Sagar",
+    "rate": "3.6/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Vasanth Vihar - Since 1965",
+    "rate": "3.6/5",
+    "cuisines": "South Indian, Street Food",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sea Spice by 7 Star",
+    "rate": "4.0/5",
+    "cuisines": "Seafood, Biryani, Beverages, South Indian, North Indian, Kebab",
+    "approx_cost(for two people)": "1200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Desi Dawat",
+    "rate": "3.7/5",
+    "cuisines": "North Indian, Fast Food",
+    "approx_cost(for two people)": "400",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Cafe Aira",
+    "rate": "4.1/5",
+    "cuisines": "Cafe, Continental, Beverages, Desserts",
+    "approx_cost(for two people)": "500",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Mast Punjabi",
+    "rate": "2.6/5",
+    "cuisines": "North Indian, Chinese, Rolls, Biryani, Kebab",
+    "approx_cost(for two people)": "400",
+    "location": "Dwarka"
+  },
+  {
+    "name": "South Grand",
+    "rate": "3.4/5",
+    "cuisines": "South Indian, North Indian, Chinese, Beverages",
+    "approx_cost(for two people)": "400",
+    "location": "Vasant Kunj"
+  },
+  {
+    "name": "The Pizzeria",
+    "rate": "2.8/5",
+    "cuisines": "Pizza, Italian, Salad",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Cafe Zone",
+    "rate": "3.9/5",
+    "cuisines": "Fast Food, Chinese, Rolls",
+    "approx_cost(for two people)": "300",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Ruchis Point",
+    "rate": "3.8/5",
+    "cuisines": "Fast Food, Chinese",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Firangi Bake",
+    "rate": "4.0/5",
+    "cuisines": "Mexican, Italian",
+    "approx_cost(for two people)": "600",
+    "location": "South Extension"
+  },
+  {
+    "name": "The Royal Corner - Pai Viceroy",
+    "rate": "4.2/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "900",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Hara Fine Dine",
+    "rate": "4.0/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Chocoberry",
+    "rate": "3.5/5",
+    "cuisines": "Ice Cream, Desserts, Beverages",
+    "approx_cost(for two people)": "400",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Dakshin Grand",
+    "rate": "3.0/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sandwichwallas",
+    "rate": "3.7/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Chai Mane",
+    "rate": "3.6/5",
+    "cuisines": "Juices, Fast Food",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "SLV Upachar",
+    "rate": "3.1/5",
+    "cuisines": "South Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "250",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Waffle-A-Go Go",
+    "rate": "3.9/5",
+    "cuisines": "Fast Food, Desserts, Ice Cream",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Cross Road Cafe",
+    "rate": "3.9/5",
+    "cuisines": "Cafe, Fast Food, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Anand Donne Biriyani",
+    "rate": "3.6/5",
+    "cuisines": "Biryani",
+    "approx_cost(for two people)": "200",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Seven Star",
+    "rate": "3.4/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Stop 'N' Joy",
+    "rate": "3.8/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sri Yaksha Shiv Sagar",
+    "rate": "3.6/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "600",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Fudge",
+    "rate": "3.8/5",
+    "cuisines": "Desserts, Momos",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Just Bunny",
+    "rate": "3.5/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Bakers Town",
+    "rate": "3.8/5",
+    "cuisines": "Cafe, Continental, Fast Food",
+    "approx_cost(for two people)": "650",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Shree Mahalakshmi Sweets",
+    "rate": "3.2/5",
+    "cuisines": "Mithai, Street Food",
+    "approx_cost(for two people)": "100",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Kaapi Kendra",
+    "rate": "3.7/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Ivy",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Chinese, Fast Food",
+    "approx_cost(for two people)": "600",
+    "location": "Dwarka"
+  },
+  {
+    "name": "The Airos",
+    "rate": "4.1/5",
+    "cuisines": "Cafe, Italian, Pizza",
+    "approx_cost(for two people)": "650",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Chai Kraft",
+    "rate": "4.1/5",
+    "cuisines": "Beverages, Tea",
+    "approx_cost(for two people)": "100",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "South Point Pub",
+    "rate": "3.4/5",
+    "cuisines": "North Indian, Seafood, Chinese",
+    "approx_cost(for two people)": "800",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "The Trundle",
+    "rate": "3.7/5",
+    "cuisines": "Chinese, Thai, Continental, North Indian",
+    "approx_cost(for two people)": "700",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "The Krishna Grand Xpress",
+    "rate": "4.0/5",
+    "cuisines": "South Indian, Fast Food",
+    "approx_cost(for two people)": "350",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Sri Krishna Darshini",
+    "rate": "3.1/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Shringar Sweets & Snacks",
+    "rate": "3.5/5",
+    "cuisines": "Mithai, South Indian, Street Food, Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Udupi Grand",
+    "rate": "3.8/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Ganesh Grand",
+    "rate": "3.7/5",
+    "cuisines": "South Indian, North Indian, Desserts",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Shreyas Upahar & Burger Point",
+    "rate": "3.0/5",
+    "cuisines": "South Indian, Burger",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Little Cafe",
+    "rate": "3.7/5",
+    "cuisines": "Cafe, Beverages",
+    "approx_cost(for two people)": "600",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Mumbai Badam Milk & Lassi Center",
+    "rate": "3.6/5",
+    "cuisines": "Beverages, Desserts",
+    "approx_cost(for two people)": "100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Sri Krishna Sagar",
+    "rate": "3.2/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Mylari Biryani Family Restaurant",
+    "rate": "3.7/5",
+    "cuisines": "Biryani, Fast Food",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "1980s Games Cafe",
+    "rate": "3.4/5",
+    "cuisines": "Cafe, Fast Food",
+    "approx_cost(for two people)": "400",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Kadala Tarangaa",
+    "rate": "3.6/5",
+    "cuisines": "Mangalorean, Seafood, North Indian",
+    "approx_cost(for two people)": "600",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Namma Biryani",
+    "rate": "3.6/5",
+    "cuisines": "Biryani, Chinese, North Indian",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Nandhanu's Rasoi",
+    "rate": "3.0/5",
+    "cuisines": "Chinese, North Indian",
+    "approx_cost(for two people)": "400",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Hotel Pork Paradise",
+    "rate": "3.7/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Chandni Chowk"
+  },
+  {
+    "name": "As On Fire",
+    "rate": "3.5/5",
+    "cuisines": "Pizza, Fast Food, BBQ",
+    "approx_cost(for two people)": "400",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "J K Fish Land",
+    "rate": "3.6/5",
+    "cuisines": "Seafood, Mangalorean",
+    "approx_cost(for two people)": "300",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Curry Leaves",
+    "rate": "4.1/5",
+    "cuisines": "Andhra, North Indian, Chinese",
+    "approx_cost(for two people)": "800",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Lassi Shop",
+    "rate": "3.5/5",
+    "cuisines": "Beverages, Ice Cream, Fast Food",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Magic Meals",
+    "rate": "3.7/5",
+    "cuisines": "Fast Food, Desserts, Beverages",
+    "approx_cost(for two people)": "400",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Desi Cream Junction",
+    "rate": "3.7/5",
+    "cuisines": "Chinese, North Indian, Pizza, Italian",
+    "approx_cost(for two people)": "650",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Drunken Monkey",
+    "rate": "3.8/5",
+    "cuisines": "Beverages, Fast Food",
+    "approx_cost(for two people)": "400",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Ruchi's Corner",
+    "rate": "2.7/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Tandoori Bytes",
+    "rate": "3.6/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "700",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Bangalore Donne Biriyani",
+    "rate": "3.2/5",
+    "cuisines": "South Indian, Biryani",
+    "approx_cost(for two people)": "300",
+    "location": "Dwarka"
+  },
+  {
+    "name": "SGS Non Veg - Gundu Pulav",
+    "rate": "3.8/5",
+    "cuisines": "Biryani, Fast Food",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Keventers",
+    "rate": "3.7/5",
+    "cuisines": "Desserts, Beverages, Ice Cream",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Navi Food Point",
+    "rate": "3.6/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Shawarma Inc",
+    "rate": "3.1/5",
+    "cuisines": "Rolls, Lebanese",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "The Cafe Nuts and Bolts",
+    "rate": "3.0/5",
+    "cuisines": "Cafe, Fast Food, Chinese",
+    "approx_cost(for two people)": "500",
+    "location": "Dwarka"
+  },
+  {
+    "name": "AM WOW",
+    "rate": "3.4/5",
+    "cuisines": "Beverages",
+    "approx_cost(for two people)": "100",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Lalbagh Grand",
+    "rate": "3.0/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "250",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Funjabi Curries",
+    "rate": "2.9/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Eat Repeat",
+    "rate": "3.9/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Salut",
+    "rate": "4.1/5",
+    "cuisines": "Continental, Finger Food, Seafood, Pizza",
+    "approx_cost(for two people)": "1200",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Nammura Donne Biriyani",
+    "rate": "3.5/5",
+    "cuisines": "Biryani, Fast Food",
+    "approx_cost(for two people)": "400",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Lassi Stop",
+    "rate": "3.4/5",
+    "cuisines": "Beverages, Fast Food, Juices",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Dakshin Kitchen",
+    "rate": "3.6/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Sri Sai Cafe",
+    "rate": "3.5/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Sri Sai 99 Variety Dosa",
+    "rate": "3.8/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Utsav Restaurant",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Crunch and Munch",
+    "rate": "3.7/5",
+    "cuisines": "Chinese, Street Food, Ice Cream",
+    "approx_cost(for two people)": "300",
+    "location": "Vasant Kunj"
+  },
+  {
+    "name": "Food Geek",
+    "rate": "3.8/5",
+    "cuisines": "Sandwich, Fast Food, Rolls",
+    "approx_cost(for two people)": "350",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Sri Krishna Aramane",
+    "rate": "3.7/5",
+    "cuisines": "South Indian, North Indian, Chinese, Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Great Indian Rolls",
+    "rate": "3.3/5",
+    "cuisines": "Rolls",
+    "approx_cost(for two people)": "100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Chats Point",
+    "rate": "3.4/5",
+    "cuisines": "Fast Food, Street Food",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Food Point",
+    "rate": "3.5/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Swarga Ruchi",
+    "rate": "3.3/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Kolkata King",
+    "rate": "3.4/5",
+    "cuisines": "Fast Food, Rolls",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Sandwich Mama's And Frozen Monster",
+    "rate": "3.8/5",
+    "cuisines": "Ice Cream, Beverages, Fast Food",
+    "approx_cost(for two people)": "250",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "New Rajadhani Spicy",
+    "rate": "3.7/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "700",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Big Mishra Pedha",
+    "rate": "2.9/5",
+    "cuisines": "Mithai",
+    "approx_cost(for two people)": "250",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "VEGeatz",
+    "rate": "3.4/5",
+    "cuisines": "South Indian, North Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Foodizo",
+    "rate": "3.6/5",
+    "cuisines": "Desserts, Fast Food, Continental",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Food Springs",
+    "rate": "4.0/5",
+    "cuisines": "South Indian, Chinese",
+    "approx_cost(for two people)": "400",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Chung's Chinese Corner",
+    "rate": "3.9/5",
+    "cuisines": "Chinese",
+    "approx_cost(for two people)": "700",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Eurasia Pasta and Barbeque by Little Italy",
+    "rate": "4.1/5",
+    "cuisines": "Italian, Fast Food, Salad, BBQ",
+    "approx_cost(for two people)": "1200",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Goli Vada Pav No. 1",
+    "rate": "3.7/5",
+    "cuisines": "Street Food",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Ragoo's",
+    "rate": "3.9/5",
+    "cuisines": "Italian, Pizza, North Indian, Salad",
+    "approx_cost(for two people)": "800",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Pure & Natural",
+    "rate": "3.9/5",
+    "cuisines": "Fast Food, Continental, Beverages, Salad, Healthy Food",
+    "approx_cost(for two people)": "500",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Maiyas",
+    "rate": "4.0/5",
+    "cuisines": "North Indian, South Indian, Fast Food, Juices",
+    "approx_cost(for two people)": "200",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Sip n Dine",
+    "rate": "3.6/5",
+    "cuisines": "North Indian, Chinese, South Indian",
+    "approx_cost(for two people)": "800",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Cafe Mondo",
+    "rate": "3.7/5",
+    "cuisines": "Cafe, Italian, Beverages",
+    "approx_cost(for two people)": "600",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Jalpaan",
+    "rate": "4.0/5",
+    "cuisines": "North Indian, Continental",
+    "approx_cost(for two people)": "900",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Kataria's Pakwan",
+    "rate": "3.2/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "400",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Juicy Momos",
+    "rate": "3.5/5",
+    "cuisines": "Tibetan, Momos",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Amande Patisserie",
+    "rate": "4.0/5",
+    "cuisines": "Bakery, French, Desserts",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Anand Sweets and Savouries",
+    "rate": "3.9/5",
+    "cuisines": "Mithai, Street Food",
+    "approx_cost(for two people)": "400",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Chicken Hunt",
+    "rate": "3.5/5",
+    "cuisines": "South Indian, North Indian, Chinese, Biryani",
+    "approx_cost(for two people)": "350",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Swadesh Tadka",
+    "rate": "3.5/5",
+    "cuisines": "North Indian, Chinese, Beverages",
+    "approx_cost(for two people)": "600",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Cane-O-La",
+    "rate": "3.8/5",
+    "cuisines": "Juices",
+    "approx_cost(for two people)": "100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "New Biryani Mane",
+    "rate": "3.7/5",
+    "cuisines": "North Indian, Chinese, Biryani, South Indian",
+    "approx_cost(for two people)": "450",
+    "location": "Vasant Kunj"
+  },
+  {
+    "name": "Upahara Darshini",
+    "rate": "3.8/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "400",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Karnataka Bhel House",
+    "rate": "4.1/5",
+    "cuisines": "Street Food",
+    "approx_cost(for two people)": "100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Sreeraj Lassi Bar",
+    "rate": "4.1/5",
+    "cuisines": "Beverages",
+    "approx_cost(for two people)": "150",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Juice Junction Food Court",
+    "rate": "3.7/5",
+    "cuisines": "Juices, South Indian, Chinese, Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Bunt's Biriyani Palace",
+    "rate": "3.0/5",
+    "cuisines": "North Indian, South Indian, Chinese, Biryani, Seafood",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Chai Point",
+    "rate": "3.2/5",
+    "cuisines": "Tea, Beverages, Fast Food",
+    "approx_cost(for two people)": "250",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Janahaar",
+    "rate": "3.8/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Utsav",
+    "rate": "3.7/5",
+    "cuisines": "North Indian, Street Food",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Meat And Eat",
+    "rate": "3.1/5",
+    "cuisines": "Fast Food, Burger",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Snacks Bite",
+    "rate": "3.0/5",
+    "cuisines": "Fast Food, Momos",
+    "approx_cost(for two people)": "400",
+    "location": "Dwarka"
+  },
+  {
+    "name": "The Spice Saga",
+    "rate": "3.7/5",
+    "cuisines": "Biryani, North Indian, Chinese, Seafood",
+    "approx_cost(for two people)": "750",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Dakshin Cafe",
+    "rate": "3.7/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Kaulige Millet Corner",
+    "rate": "3.3/5",
+    "cuisines": "Healthy Food, South Indian",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Ifruit Ice Cream",
+    "rate": "3.3/5",
+    "cuisines": "Desserts, Ice Cream",
+    "approx_cost(for two people)": "150",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Havmor",
+    "rate": "3.8/5",
+    "cuisines": "Ice Cream, Desserts",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Grand Food",
+    "rate": "3.4/5",
+    "cuisines": "South Indian, Bakery, Chinese",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Dining Hut",
+    "rate": "3.5/5",
+    "cuisines": "North Indian, Chinese, South Indian",
+    "approx_cost(for two people)": "400",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Desi Swaad",
+    "rate": "3.5/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "400",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Yummy Momos",
+    "rate": "3.2/5",
+    "cuisines": "Momos, Tibetan, Chinese",
+    "approx_cost(for two people)": "200",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Masale Daan",
+    "rate": "3.1/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "350",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Grow Fit",
+    "rate": "3.6/5",
+    "cuisines": "Healthy Food, North Indian, Thai",
+    "approx_cost(for two people)": "500",
+    "location": "Saket"
+  },
+  {
+    "name": "Lassi Spot",
+    "rate": "3.3/5",
+    "cuisines": "nan",
+    "approx_cost(for two people)": "100",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Sandwich Hub",
+    "rate": "3.4/5",
+    "cuisines": "Fast Food, Sandwich",
+    "approx_cost(for two people)": "300",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Udupi Sri Krishna Cafe",
+    "rate": "3.9/5",
+    "cuisines": "North Indian, South Indian",
+    "approx_cost(for two people)": "600",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Starlite Bakery & Fastfood",
+    "rate": "3.7/5",
+    "cuisines": "North Indian, Chinese, Rolls, Bakery, Arabian, Charcoal Chicken, Desserts",
+    "approx_cost(for two people)": "300",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Veganbreak24x7",
+    "rate": "2.8/5",
+    "cuisines": "South Indian, Chinese, Continental, Biryani",
+    "approx_cost(for two people)": "199",
+    "location": "Vasant Kunj"
+  },
+  {
+    "name": "Aadhya Hotel",
+    "rate": "3.3/5",
+    "cuisines": "South Indian, North Indian, Chinese, Biryani",
+    "approx_cost(for two people)": "800",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Dodda Mane Baaduta",
+    "rate": "3.5/5",
+    "cuisines": "North Indian, South Indian, Chinese, Biryani",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Swadd Kitchen",
+    "rate": "3.4/5",
+    "cuisines": "North Indian, Fast Food",
+    "approx_cost(for two people)": "500",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Happy Chopsticks",
+    "rate": "3.6/5",
+    "cuisines": "Chinese, Fast Food",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Udupi Upachar",
+    "rate": "3.3/5",
+    "cuisines": "South Indian, North Indian",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Davanagere Benne Dose Hut",
+    "rate": "3.4/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Subz",
+    "rate": "4.2/5",
+    "cuisines": "North Indian, South Indian",
+    "approx_cost(for two people)": "1000",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Mint and Mustard",
+    "rate": "4.0/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "750",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Chinese Square",
+    "rate": "3.9/5",
+    "cuisines": "Chinese",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Punjabi Raswada",
+    "rate": "3.5/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "800",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Vinny's",
+    "rate": "4.2/5",
+    "cuisines": "Pizza, Italian, Continental, Desserts",
+    "approx_cost(for two people)": "800",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Chetty's Corner",
+    "rate": "3.4/5",
+    "cuisines": "Fast Food, Burger, Pizza",
+    "approx_cost(for two people)": "200",
+    "location": "Vasant Kunj"
+  },
+  {
+    "name": "Kapoor's Cafe",
+    "rate": "4.2/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "800",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Donne Biryani & Kabab Corner",
+    "rate": "3.3/5",
+    "cuisines": "Chinese, Biryani",
+    "approx_cost(for two people)": "200",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Sukh Sagar",
+    "rate": "3.8/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "450",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "S M V Snacks Corner",
+    "rate": "3.7/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Andhra Ruchulu",
+    "rate": "4.1/5",
+    "cuisines": "Andhra, Biryani, North Indian, Chinese",
+    "approx_cost(for two people)": "1000",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Steaming Mugs",
+    "rate": "3.9/5",
+    "cuisines": "Cafe",
+    "approx_cost(for two people)": "700",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Rajathadri Food Fort",
+    "rate": "4.0/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "600",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Brew Meister",
+    "rate": "4.1/5",
+    "cuisines": "North Indian, Continental, Finger Food, American, Asian",
+    "approx_cost(for two people)": "1500",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Rasoi",
+    "rate": "3.3/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Mr. Singh Da Dhaba",
+    "rate": "3.6/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Dwarka"
+  },
+  {
+    "name": "Kababs N Biryani",
+    "rate": "3.4/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Ayodhya Upachar",
+    "rate": "4.3/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Biriyani Mane",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Biryani",
+    "approx_cost(for two people)": "400",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Cafe Ajfan",
+    "rate": "4.2/5",
+    "cuisines": "Cafe, Continental, Beverages",
+    "approx_cost(for two people)": "700",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Brundhavana Food Point",
+    "rate": "4.0/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food, Beverages",
+    "approx_cost(for two people)": "300",
+    "location": "Dwarka"
+  },
+  {
+    "name": "SLV Corner Restaurant",
+    "rate": "4.1/5",
+    "cuisines": "South Indian, Chinese, North Indian, Street Food, Rolls, Juices",
+    "approx_cost(for two people)": "550",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Hotel New Karavali",
+    "rate": "3.8/5",
+    "cuisines": "Mangalorean, South Indian, North Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "The Krishna Grand",
+    "rate": "3.9/5",
+    "cuisines": "North Indian, South Indian, Chinese, Fast Food, Juices",
+    "approx_cost(for two people)": "750",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Roti Ghar",
+    "rate": "3.9/5",
+    "cuisines": "North Indian, Chinese, South Indian",
+    "approx_cost(for two people)": "500",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Kettle & Kegs",
+    "rate": "3.2/5",
+    "cuisines": "Tea, Beverages",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Baisakhi",
+    "rate": "3.8/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "500",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Poonam Sweets",
+    "rate": "4.4/5",
+    "cuisines": "Mithai",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Amma's Pastries",
+    "rate": "3.8/5",
+    "cuisines": "Bakery",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Polar Bear",
+    "rate": "3.9/5",
+    "cuisines": "Ice Cream, Desserts, Beverages, Sandwich",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Anand Sweets and Savouries",
+    "rate": "3.7/5",
+    "cuisines": "Mithai, Street Food",
+    "approx_cost(for two people)": "400",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Ibaco",
+    "rate": "3.9/5",
+    "cuisines": "Desserts",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "The Lassi and Juice Park",
+    "rate": "3.8/5",
+    "cuisines": "Juices, Desserts",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Corner Stone",
+    "rate": "3.6/5",
+    "cuisines": "Beverages, Juices, Desserts, Italian",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Arun Ice Cream",
+    "rate": "3.4/5",
+    "cuisines": "Ice Cream, Desserts",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sweet N Swirl",
+    "rate": "3.2/5",
+    "cuisines": "Desserts, Ice Cream",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sri Venkateshwara Sweet Meat Stall",
+    "rate": "4.0/5",
+    "cuisines": "Mithai, Street Food, North Indian, Chinese",
+    "approx_cost(for two people)": "400",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Baskin Robbins",
+    "rate": "3.7/5",
+    "cuisines": "Ice Cream, Desserts",
+    "approx_cost(for two people)": "250",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Srinivasa Brahmins Bakery",
+    "rate": "3.6/5",
+    "cuisines": "Bakery, Street Food",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Jain Bakes",
+    "rate": "3.6/5",
+    "cuisines": "Bakery, Desserts",
+    "approx_cost(for two people)": "250",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "KC Das - Sweet Spot",
+    "rate": "3.6/5",
+    "cuisines": "Mithai, Street Food",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "A2B Veg - Adyar Ananda Bhavan",
+    "rate": "2.7/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "400",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Jcubez",
+    "rate": "3.8/5",
+    "cuisines": "Finger Food",
+    "approx_cost(for two people)": "1300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Chung Wah",
+    "rate": "3.9/5",
+    "cuisines": "Chinese, Momos, Thai, Vietnamese",
+    "approx_cost(for two people)": "900",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Blue Wings Bar & Restaurant",
+    "rate": "3.7/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "700",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "New Imperial Restaurant",
+    "rate": "3.7/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "450",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Karavali Fish Center",
+    "rate": "3.4/5",
+    "cuisines": "Mangalorean, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Iyer's Tiffin Centre",
+    "rate": "3.8/5",
+    "cuisines": "South Indian, Chinese",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Kydz Adda",
+    "rate": "3.4/5",
+    "cuisines": "Continental",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Food Box Cafe",
+    "rate": "3.6/5",
+    "cuisines": "Mughlai, North Indian, Chinese",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sri Ganesh Juice and Chats",
+    "rate": "3.5/5",
+    "cuisines": "Juices, Street Food",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Manifest Cafe",
+    "rate": "3.5/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Beijing Bites",
+    "rate": "2.7/5",
+    "cuisines": "Chinese, Thai",
+    "approx_cost(for two people)": "850",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Taaza Thindi",
+    "rate": "4.7/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sri Laxmi Venkateshwara Coffee Bar",
+    "rate": "4.4/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Messy Bowl",
+    "rate": "3.8/5",
+    "cuisines": "Fast Food, Beverages",
+    "approx_cost(for two people)": "500",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Brahmin Cafe",
+    "rate": "3.8/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Hotel Mangala",
+    "rate": "3.9/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Simple Thindies",
+    "rate": "3.5/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "SLV Swadishta",
+    "rate": "3.8/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "New Sagar Fast Food",
+    "rate": "3.6/5",
+    "cuisines": "North Indian, South Indian",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Parama Ruchi",
+    "rate": "3.5/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Thrilok Restaurant",
+    "rate": "3.4/5",
+    "cuisines": "Mangalorean, Seafood",
+    "approx_cost(for two people)": "350",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Pizza Stop",
+    "rate": "3.0/5",
+    "cuisines": "Pizza, Italian",
+    "approx_cost(for two people)": "600",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Hanumanthanagar Biryani Junction",
+    "rate": "3.5/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "SLV Refreshment",
+    "rate": "4.1/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "SVKP Daily Fresh",
+    "rate": "3.3/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "350",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Srinagar Kabab Corner",
+    "rate": "3.4/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sri Venkateshwara Chat Centre",
+    "rate": "3.5/5",
+    "cuisines": "Street Food",
+    "approx_cost(for two people)": "100",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Vinay Bhel Corner",
+    "rate": "3.4/5",
+    "cuisines": "Street Food",
+    "approx_cost(for two people)": "100",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Nandi Chats and Juice",
+    "rate": "3.6/5",
+    "cuisines": "Street Food",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Just Shawarma",
+    "rate": "3.8/5",
+    "cuisines": "Arabian",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "FOOD ADDA",
+    "rate": "3.2/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Hotel Nisarga",
+    "rate": "3.2/5",
+    "cuisines": "North Indian, South Indian",
+    "approx_cost(for two people)": "250",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Yo Roll Corner",
+    "rate": "3.0/5",
+    "cuisines": "Street Food, Rolls",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "New Quality Dum Biryani",
+    "rate": "3.1/5",
+    "cuisines": "Biryani",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Sri Lakshmi Kabab Center",
+    "rate": "3.3/5",
+    "cuisines": "Kebab",
+    "approx_cost(for two people)": "200",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Tasty Bites",
+    "rate": "3.7/5",
+    "cuisines": "Fast Food, Pizza",
+    "approx_cost(for two people)": "150",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Raams Chicken",
+    "rate": "3.6/5",
+    "cuisines": "Andhra",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Panchami",
+    "rate": "3.0/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Kavali",
+    "rate": "4.0/5",
+    "cuisines": "South Indian, Street Food",
+    "approx_cost(for two people)": "300",
+    "location": "Connaught Place"
+  },
+  {
+    "name": "Ranganna Military Hotel",
+    "rate": "4.2/5",
+    "cuisines": "South Indian, Biryani",
+    "approx_cost(for two people)": "350",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Vidyarthi Bhavan",
+    "rate": "4.4/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Bharjari Oota",
+    "rate": "3.9/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "350",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Bridgeway",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "550",
+    "location": "Chandni Chowk"
+  },
+  {
+    "name": "Soho Bar & Grill",
+    "rate": "2.7/5",
+    "cuisines": "North Indian, Chinese, Thai",
+    "approx_cost(for two people)": "1100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Bhavani Restaurant",
+    "rate": "3.9/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Zephyr",
+    "rate": "3.9/5",
+    "cuisines": "Italian, Continental",
+    "approx_cost(for two people)": "650",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Hotel Dwarka",
+    "rate": "4.2/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "250",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Nisarga Garden Restaurant",
+    "rate": "3.4/5",
+    "cuisines": "South Indian, Chinese, Desserts, Beverages",
+    "approx_cost(for two people)": "350",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Ma-Arya Family Restaurant",
+    "rate": "3.7/5",
+    "cuisines": "Biryani, South Indian, North Indian, Chinese, Andhra",
+    "approx_cost(for two people)": "600",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "New Prashanth Hotel",
+    "rate": "3.9/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "400",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Udupi Sri Krishna Bhavan",
+    "rate": "4.1/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "600",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Ice Thunder",
+    "rate": "3.8/5",
+    "cuisines": "South Indian, Fast Food, North Indian, Desserts",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Mahalaxmi Tiffin Room",
+    "rate": "4.1/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Sandwichwallas",
+    "rate": "4.0/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Basavanagudi Mylari",
+    "rate": "4.0/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Shrinidhi Military Hotel",
+    "rate": "3.3/5",
+    "cuisines": "North Indian, Mughlai",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Pramukh Family Restaurant",
+    "rate": "3.9/5",
+    "cuisines": "North Indian, Chinese, Mughlai",
+    "approx_cost(for two people)": "700",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Vybhava",
+    "rate": "3.8/5",
+    "cuisines": "South Indian, North Indian",
+    "approx_cost(for two people)": "250",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Shree Venkateshwara North Karnataka Hotel",
+    "rate": "4.0/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Anand Sagar Inn",
+    "rate": "3.3/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "450",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Sangam Military Hotel",
+    "rate": "3.2/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "250",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Belly Squad Food Truck",
+    "rate": "3.8/5",
+    "cuisines": "Chinese, Rolls, Biryani, Momos",
+    "approx_cost(for two people)": "300",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "50-50 EATING HOUSE",
+    "rate": "3.2/5",
+    "cuisines": "South Indian, Biryani",
+    "approx_cost(for two people)": "100",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Om Shiva Shakthi Chats Centre",
+    "rate": "3.9/5",
+    "cuisines": "Street Food, Fast Food",
+    "approx_cost(for two people)": "300",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "Rolls Corner",
+    "rate": "3.6/5",
+    "cuisines": "Fast Food, Rolls",
+    "approx_cost(for two people)": "150",
+    "location": "Hauz Khas"
+  },
+  {
+    "name": "New Ambur Hot Dum Biryani",
+    "rate": "3.2/5",
+    "cuisines": "Biryani",
+    "approx_cost(for two people)": "150",
+    "location": "Chandni Chowk"
+  },
+  {
+    "name": "Deja Vu Resto Bar",
+    "rate": "4.4/5",
+    "cuisines": "North Indian, Italian",
+    "approx_cost(for two people)": "900",
+    "location": "South Extension"
+  },
+  {
+    "name": "Fattoush",
+    "rate": "4.2/5",
+    "cuisines": "Arabian, Biryani, Chinese, Middle Eastern, Fast Food, North Indian, Mughlai, Seafood",
+    "approx_cost(for two people)": "1000",
+    "location": "South Extension"
+  },
+  {
+    "name": "Empire Restaurant",
+    "rate": "4.3/5",
+    "cuisines": "North Indian, Mughlai, South Indian, Chinese",
+    "approx_cost(for two people)": "750",
+    "location": "South Extension"
+  },
+  {
+    "name": "Abhiruchi Hotel",
+    "rate": "3.3/5",
+    "cuisines": "Andhra, Biryani, North Indian, Chinese",
+    "approx_cost(for two people)": "550",
+    "location": "South Extension"
+  },
+  {
+    "name": "Tulips",
+    "rate": "3.1/5",
+    "cuisines": "North Indian, South Indian, Chinese, Continental",
+    "approx_cost(for two people)": "800",
+    "location": "South Extension"
+  },
+  {
+    "name": "Barbeque Nation",
+    "rate": "4.7/5",
+    "cuisines": "North Indian, European, Mediterranean, BBQ, Kebab",
+    "approx_cost(for two people)": "1600",
+    "location": "Saket"
+  },
+  {
+    "name": "Sattvam",
+    "rate": "4.3/5",
+    "cuisines": "North Indian, South Indian",
+    "approx_cost(for two people)": "1200",
+    "location": "Saket"
+  },
+  {
+    "name": "24th Main",
+    "rate": "4.1/5",
+    "cuisines": "North Indian, South Indian, Chinese",
+    "approx_cost(for two people)": "800",
+    "location": "Saket"
+  },
+  {
+    "name": "Zaitoon",
+    "rate": "4.1/5",
+    "cuisines": "BBQ, Arabian, Chinese, North Indian, Desserts",
+    "approx_cost(for two people)": "1000",
+    "location": "Saket"
+  },
+  {
+    "name": "Mango Greens",
+    "rate": "3.9/5",
+    "cuisines": "North Indian, Continental, Chinese",
+    "approx_cost(for two people)": "900",
+    "location": "Saket"
+  },
+  {
+    "name": "Oye Amritsar",
+    "rate": "3.8/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "1000",
+    "location": "Saket"
+  },
+  {
+    "name": "Melt - Eden Park",
+    "rate": "4.0/5",
+    "cuisines": "North Indian, Chinese, Thai, Mughlai, Seafood",
+    "approx_cost(for two people)": "1000",
+    "location": "Saket"
+  },
+  {
+    "name": "Spice Code",
+    "rate": "4.0/5",
+    "cuisines": "South Indian, North Indian, Chinese, Biryani",
+    "approx_cost(for two people)": "1000",
+    "location": "Saket"
+  },
+  {
+    "name": "The Onyx - The HHI Select Bengaluru",
+    "rate": "3.3/5",
+    "cuisines": "North Indian, Chinese, Continental",
+    "approx_cost(for two people)": "950",
+    "location": "Saket"
+  },
+  {
+    "name": "The Pavillion",
+    "rate": "2.7/5",
+    "cuisines": "North Indian, Continental, South Indian, Chinese",
+    "approx_cost(for two people)": "1000",
+    "location": "Saket"
+  },
+  {
+    "name": "Sankranthi Veg Restaurant",
+    "rate": "3.0/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "600",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Tisano Cafe",
+    "rate": "3.8/5",
+    "cuisines": "Cafe, Fast Food, Chinese, Continental",
+    "approx_cost(for two people)": "500",
+    "location": "South Extension"
+  },
+  {
+    "name": "Cafe Kabana",
+    "rate": "4.0/5",
+    "cuisines": "Cafe, Continental",
+    "approx_cost(for two people)": "700",
+    "location": "South Extension"
+  },
+  {
+    "name": "Butterly",
+    "rate": "3.9/5",
+    "cuisines": "Cafe, Bakery, Beverages",
+    "approx_cost(for two people)": "450",
+    "location": "South Extension"
+  },
+  {
+    "name": "Black Mug Cafe",
+    "rate": "3.7/5",
+    "cuisines": "Cafe",
+    "approx_cost(for two people)": "300",
+    "location": "South Extension"
+  },
+  {
+    "name": "#refuel",
+    "rate": "3.7/5",
+    "cuisines": "Cafe, Beverages",
+    "approx_cost(for two people)": "400",
+    "location": "South Extension"
+  },
+  {
+    "name": "WAFL",
+    "rate": "3.9/5",
+    "cuisines": "Cafe, Fast Food, Desserts, Beverages",
+    "approx_cost(for two people)": "400",
+    "location": "South Extension"
+  },
+  {
+    "name": "Vaho Kafe & Pressery",
+    "rate": "3.9/5",
+    "cuisines": "Cafe, Healthy Food, Asian, Italian, North Indian, Biryani, Juices",
+    "approx_cost(for two people)": "500",
+    "location": "South Extension"
+  },
+  {
+    "name": "Dreamcatcher",
+    "rate": "3.9/5",
+    "cuisines": "Cafe",
+    "approx_cost(for two people)": "600",
+    "location": "South Extension"
+  },
+  {
+    "name": "Cafe Coffee Day",
+    "rate": "3.6/5",
+    "cuisines": "Cafe, Fast Food",
+    "approx_cost(for two people)": "900",
+    "location": "South Extension"
+  },
+  {
+    "name": "Cafe Arabica",
+    "rate": "3.8/5",
+    "cuisines": "Cafe, Bakery",
+    "approx_cost(for two people)": "700",
+    "location": "South Extension"
+  },
+  {
+    "name": "Starbucks",
+    "rate": "3.9/5",
+    "cuisines": "Cafe, Desserts",
+    "approx_cost(for two people)": "700",
+    "location": "South Extension"
+  },
+  {
+    "name": "Smoor",
+    "rate": "3.6/5",
+    "cuisines": "Desserts, Cafe, Beverages",
+    "approx_cost(for two people)": "900",
+    "location": "South Extension"
+  },
+  {
+    "name": "Kalmane Koffees",
+    "rate": "3.9/5",
+    "cuisines": "Cafe",
+    "approx_cost(for two people)": "350",
+    "location": "South Extension"
+  },
+  {
+    "name": "Shee-Sha Cafe",
+    "rate": "3.6/5",
+    "cuisines": "Cafe, North Indian, Chinese, Continental",
+    "approx_cost(for two people)": "800",
+    "location": "South Extension"
+  },
+  {
+    "name": "Brews N Bites",
+    "rate": "2.7/5",
+    "cuisines": "Chinese, Fast Food, Cafe, Street Food, Finger Food",
+    "approx_cost(for two people)": "650",
+    "location": "South Extension"
+  },
+  {
+    "name": "D2V Cafe",
+    "rate": "3.6/5",
+    "cuisines": "Cafe",
+    "approx_cost(for two people)": "700",
+    "location": "South Extension"
+  },
+  {
+    "name": "Cafe Talk",
+    "rate": "3.3/5",
+    "cuisines": "Cafe, Continental, North Indian, Bakery, Desserts",
+    "approx_cost(for two people)": "700",
+    "location": "South Extension"
+  },
+  {
+    "name": "Cafe Choco Craze",
+    "rate": "3.7/5",
+    "cuisines": "Cafe, Fast Food, Desserts",
+    "approx_cost(for two people)": "400",
+    "location": "South Extension"
+  },
+  {
+    "name": "Slate Cafe",
+    "rate": "4.1/5",
+    "cuisines": "Cafe, Sandwich, Burger",
+    "approx_cost(for two people)": "600",
+    "location": "Saket"
+  },
+  {
+    "name": "Dialogues",
+    "rate": "4.0/5",
+    "cuisines": "Cafe, Continental",
+    "approx_cost(for two people)": "600",
+    "location": "Saket"
+  },
+  {
+    "name": "Mudpipe Cafe",
+    "rate": "3.9/5",
+    "cuisines": "Cafe, Continental, North Indian",
+    "approx_cost(for two people)": "800",
+    "location": "Saket"
+  },
+  {
+    "name": "TAB - Take A Break",
+    "rate": "4.1/5",
+    "cuisines": "Cafe, Continental, Italian",
+    "approx_cost(for two people)": "550",
+    "location": "Saket"
+  },
+  {
+    "name": "Biggies Burger 'n' More",
+    "rate": "4.1/5",
+    "cuisines": "Cafe, Burger, Beverages",
+    "approx_cost(for two people)": "650",
+    "location": "Saket"
+  },
+  {
+    "name": "Onesta",
+    "rate": "4.4/5",
+    "cuisines": "Pizza, Cafe, Italian",
+    "approx_cost(for two people)": "600",
+    "location": "Saket"
+  },
+  {
+    "name": "Cafe Potpourri",
+    "rate": "3.7/5",
+    "cuisines": "Cafe, Sandwich, North Indian, Beverages, Desserts",
+    "approx_cost(for two people)": "400",
+    "location": "Saket"
+  },
+  {
+    "name": "De Oxford Cafe",
+    "rate": "3.7/5",
+    "cuisines": "Cafe, Beverages, Fast Food",
+    "approx_cost(for two people)": "500",
+    "location": "Saket"
+  },
+  {
+    "name": "Vinaya Coffee Moments",
+    "rate": "3.7/5",
+    "cuisines": "Burger, Cafe, Desserts, Sandwich, Italian",
+    "approx_cost(for two people)": "450",
+    "location": "Saket"
+  },
+  {
+    "name": "Brew Point",
+    "rate": "3.6/5",
+    "cuisines": "Cafe, American, Burger, Sandwich, Fast Food",
+    "approx_cost(for two people)": "500",
+    "location": "Saket"
+  },
+  {
+    "name": "The Cravery",
+    "rate": "2.6/5",
+    "cuisines": "Continental, Burger, Beverages, Cafe, Italian, Rolls",
+    "approx_cost(for two people)": "500",
+    "location": "Saket"
+  },
+  {
+    "name": "Cuppa",
+    "rate": "3.4/5",
+    "cuisines": "Cafe, Fast Food",
+    "approx_cost(for two people)": "550",
+    "location": "Saket"
+  },
+  {
+    "name": "Anju's Cafe",
+    "rate": "3.4/5",
+    "cuisines": "Cafe, North Indian",
+    "approx_cost(for two people)": "600",
+    "location": "Saket"
+  },
+  {
+    "name": "Skytouch Le Cafe",
+    "rate": "3.7/5",
+    "cuisines": "Cafe, Italian, Desserts",
+    "approx_cost(for two people)": "700",
+    "location": "Saket"
+  },
+  {
+    "name": "Woodee Pizza",
+    "rate": "2.7/5",
+    "cuisines": "Cafe, Pizza, Fast Food, Beverages",
+    "approx_cost(for two people)": "500",
+    "location": "Saket"
+  },
+  {
+    "name": "Hearts Unlock Cafe",
+    "rate": "3.2/5",
+    "cuisines": "Cafe, Healthy Food",
+    "approx_cost(for two people)": "500",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "eat.fit",
+    "rate": "4.5/5",
+    "cuisines": "Healthy Food, North Indian, Biryani, Continental, Sandwich, Desserts",
+    "approx_cost(for two people)": "500",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Sai Abhiruchi",
+    "rate": "3.7/5",
+    "cuisines": "Andhra, North Indian, Biryani",
+    "approx_cost(for two people)": "800",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Capsicum Family Restaurant",
+    "rate": "3.8/5",
+    "cuisines": "Biryani, North Indian",
+    "approx_cost(for two people)": "800",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Box Magic",
+    "rate": "3.6/5",
+    "cuisines": "North Indian, South Indian, Seafood, Rolls",
+    "approx_cost(for two people)": "400",
+    "location": "South Extension"
+  },
+  {
+    "name": "Maa'r Rannaghor",
+    "rate": "3.8/5",
+    "cuisines": "Bengali, Chinese",
+    "approx_cost(for two people)": "400",
+    "location": "Saket"
+  },
+  {
+    "name": "Easy Bites",
+    "rate": "4.1/5",
+    "cuisines": "Fast Food, Sandwich",
+    "approx_cost(for two people)": "300",
+    "location": "Saket"
+  },
+  {
+    "name": "Hiyar Majhe Kolkata",
+    "rate": "4.0/5",
+    "cuisines": "Bengali, North Indian",
+    "approx_cost(for two people)": "400",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Dabba Gosht",
+    "rate": "3.4/5",
+    "cuisines": "Arabian, Middle Eastern",
+    "approx_cost(for two people)": "400",
+    "location": "Saket"
+  },
+  {
+    "name": "Empire Restaurant",
+    "rate": "3.6/5",
+    "cuisines": "Kerala, Seafood, South Indian, Chinese, North Indian, Charcoal Chicken, Beverages",
+    "approx_cost(for two people)": "400",
+    "location": "Saket"
+  },
+  {
+    "name": "Punjabites",
+    "rate": "3.7/5",
+    "cuisines": "North Indian, Charcoal Chicken",
+    "approx_cost(for two people)": "400",
+    "location": "Saket"
+  },
+  {
+    "name": "Sri Lakshmi Dhaba",
+    "rate": "2.9/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "250",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "XO Belgian Waffle",
+    "rate": "4.5/5",
+    "cuisines": "Desserts, Beverages",
+    "approx_cost(for two people)": "400",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Swadista Aahar",
+    "rate": "4.1/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "300",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Vegetarea",
+    "rate": "3.9/5",
+    "cuisines": "South Indian",
+    "approx_cost(for two people)": "250",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Al-Bek",
+    "rate": "3.6/5",
+    "cuisines": "Biryani, North Indian, Charcoal Chicken, Chinese, Seafood, Rolls",
+    "approx_cost(for two people)": "300",
+    "location": "Saket"
+  },
+  {
+    "name": "Aniram's",
+    "rate": "4.1/5",
+    "cuisines": "Chinese, North Indian",
+    "approx_cost(for two people)": "500",
+    "location": "Saket"
+  },
+  {
+    "name": "Punjabi Nawabi",
+    "rate": "3.8/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "400",
+    "location": "South Extension"
+  },
+  {
+    "name": "YummRajj",
+    "rate": "3.3/5",
+    "cuisines": "Fast Food",
+    "approx_cost(for two people)": "500",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Swad Punjab Da",
+    "rate": "4.0/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "150",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "BOX8- Desi Meals",
+    "rate": "4.1/5",
+    "cuisines": "North Indian, Mughlai, Fast Food",
+    "approx_cost(for two people)": "500",
+    "location": "South Extension"
+  },
+  {
+    "name": "Roti Wala",
+    "rate": "4.0/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Midnight Mania",
+    "rate": "4.1/5",
+    "cuisines": "Pizza, Italian, Beverages",
+    "approx_cost(for two people)": "700",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Kitchens@JP Nagar",
+    "rate": "3.9/5",
+    "cuisines": "Biryani, Kerala, Mughlai, Street Food, North Indian, Chinese, South Indian, Andhra",
+    "approx_cost(for two people)": "400",
+    "location": "Saket"
+  },
+  {
+    "name": "Krishna Kuteera",
+    "rate": "4.0/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "400",
+    "location": "South Extension"
+  },
+  {
+    "name": "Apna Punjab",
+    "rate": "3.6/5",
+    "cuisines": "North Indian, Chinese, Fast Food",
+    "approx_cost(for two people)": "450",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Paratha Junction",
+    "rate": "2.9/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Nellore Bhojanam",
+    "rate": "3.1/5",
+    "cuisines": "Andhra",
+    "approx_cost(for two people)": "250",
+    "location": "South Extension"
+  },
+  {
+    "name": "Momoz",
+    "rate": "4.0/5",
+    "cuisines": "Chinese, Momos",
+    "approx_cost(for two people)": "600",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Kalingas",
+    "rate": "3.9/5",
+    "cuisines": "Oriya, Fast Food",
+    "approx_cost(for two people)": "250",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Kanteen The Eatery",
+    "rate": "3.9/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "400",
+    "location": "South Extension"
+  },
+  {
+    "name": "Kullad Cafe",
+    "rate": "3.9/5",
+    "cuisines": "North Indian, Cafe, Fast Food, Beverages",
+    "approx_cost(for two people)": "200",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Donne Biriyani House",
+    "rate": "3.3/5",
+    "cuisines": "Biryani, Andhra",
+    "approx_cost(for two people)": "350",
+    "location": "Saket"
+  },
+  {
+    "name": "Litti Twist",
+    "rate": "4.1/5",
+    "cuisines": "North Indian, Bihari",
+    "approx_cost(for two people)": "300",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "FreshMenu",
+    "rate": "3.3/5",
+    "cuisines": "Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",
+    "approx_cost(for two people)": "450",
+    "location": "South Extension"
+  },
+  {
+    "name": "Shanthi Sagar",
+    "rate": "3.6/5",
+    "cuisines": "South Indian, North Indian, Chinese",
+    "approx_cost(for two people)": "400",
+    "location": "Saket"
+  },
+  {
+    "name": "Cakebuy",
+    "rate": "3.9/5",
+    "cuisines": "Desserts",
+    "approx_cost(for two people)": "350",
+    "location": "South Extension"
+  },
+  {
+    "name": "Five Star Chicken",
+    "rate": "3.9/5",
+    "cuisines": "Burger, Fast Food, Roast Chicken, Finger Food",
+    "approx_cost(for two people)": "300",
+    "location": "Saket"
+  },
+  {
+    "name": "Corner House Ice Cream",
+    "rate": "4.4/5",
+    "cuisines": "Ice Cream, Desserts",
+    "approx_cost(for two people)": "400",
+    "location": "Karol Bagh"
+  },
+  {
+    "name": "Delight Food",
+    "rate": "2.6/5",
+    "cuisines": "Andhra, Chinese, Biryani",
+    "approx_cost(for two people)": "450",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Andhra Kitchen",
+    "rate": "3.9/5",
+    "cuisines": "Andhra, Biryani",
+    "approx_cost(for two people)": "400",
+    "location": "South Extension"
+  },
+  {
+    "name": "Veg By Nature",
+    "rate": "3.4/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "200",
+    "location": "Saket"
+  },
+  {
+    "name": "Chicken Magic",
+    "rate": "3.7/5",
+    "cuisines": "Chinese, North Indian",
+    "approx_cost(for two people)": "300",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Behrouz Biryani",
+    "rate": "4.0/5",
+    "cuisines": "Biryani",
+    "approx_cost(for two people)": "650",
+    "location": "South Extension"
+  },
+  {
+    "name": "Swathi Restaurant",
+    "rate": "3.9/5",
+    "cuisines": "Andhra, North Indian, Chinese",
+    "approx_cost(for two people)": "400",
+    "location": "Saket"
+  },
+  {
+    "name": "Fresh Kitchen",
+    "rate": "3.4/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "600",
+    "location": "South Extension"
+  },
+  {
+    "name": "Hind Ka Chulah",
+    "rate": "3.8/5",
+    "cuisines": "North Indian, Biryani",
+    "approx_cost(for two people)": "600",
+    "location": "South Extension"
+  },
+  {
+    "name": "Kuttanad",
+    "rate": "3.6/5",
+    "cuisines": "Kerala, South Indian",
+    "approx_cost(for two people)": "200",
+    "location": "South Extension"
+  },
+  {
+    "name": "New Mahesh Friends Food Corner",
+    "rate": "3.2/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "300",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Bohra Bohra CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©",
+    "rate": "3.6/5",
+    "cuisines": "Bohri",
+    "approx_cost(for two people)": "300",
+    "location": "Saket"
+  },
+  {
+    "name": "Pizza Hut",
+    "rate": "2.7/5",
+    "cuisines": "Pizza",
+    "approx_cost(for two people)": "750",
+    "location": "Saket"
+  },
+  {
+    "name": "Shree Krishna Sannidhi",
+    "rate": "3.4/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "450",
+    "location": "South Extension"
+  },
+  {
+    "name": "BingeJoy!",
+    "rate": "3.6/5",
+    "cuisines": "Biryani, Chinese, Fast Food",
+    "approx_cost(for two people)": "100",
+    "location": "Saket"
+  },
+  {
+    "name": "Shiv Sai Hotel",
+    "rate": "3.5/5",
+    "cuisines": "North Indian",
+    "approx_cost(for two people)": "400",
+    "location": "South Extension"
+  },
+  {
+    "name": "MRA",
+    "rate": "3.9/5",
+    "cuisines": "Bakery",
+    "approx_cost(for two people)": "200",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Beijing Bites",
+    "rate": "3.7/5",
+    "cuisines": "Chinese, Thai, Momos",
+    "approx_cost(for two people)": "400",
+    "location": "Saket"
+  },
+  {
+    "name": "A2B - Adyar Ananda Bhavan",
+    "rate": "4.1/5",
+    "cuisines": "South Indian, North Indian, Chinese, Street Food",
+    "approx_cost(for two people)": "200",
+    "location": "Saket"
+  },
+  {
+    "name": "Burj Hotel",
+    "rate": "3.5/5",
+    "cuisines": "North Indian, Chinese",
+    "approx_cost(for two people)": "350",
+    "location": "South Extension"
+  },
+  {
+    "name": "Shaadi Ki Biryani",
+    "rate": "3.1/5",
+    "cuisines": "Biryani, North Indian, Mughlai",
+    "approx_cost(for two people)": "400",
+    "location": "Rajouri Garden"
+  },
+  {
+    "name": "Subway",
+    "rate": "3.2/5",
+    "cuisines": "Salad, Fast Food",
+    "approx_cost(for two people)": "600",
+    "location": "South Extension"
+  }
+]

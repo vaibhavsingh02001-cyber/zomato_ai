@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "public": true,
+  "routes": [
+    {
+      "src": "/(assets|static)/(.*)",
+      "dest": "/app/ui/static/$1/$2"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/app/ui/static/$1"
+    }
+  ]
+}
