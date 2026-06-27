@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // API Configuration: Set your Railway backend URL here in production
-    const API_BASE_URL = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
+    const API_BASE_URL = window.location.hostname === "localhost" || 
+                         window.location.hostname === "127.0.0.1" || 
+                         window.location.hostname.endsWith(".railway.app")
         ? ""
         : "https://restaurant-recommender-production.up.railway.app";
 
