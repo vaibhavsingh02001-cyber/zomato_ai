@@ -27,8 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // DOM Elements - Form inputs
     const locationSelect = document.getElementById("location-select");
-    const cuisineInput = document.getElementById("cuisine-input");
-    const cuisinesDatalist = document.getElementById("cuisines-list");
+    const cuisineSelect = document.getElementById("cuisine-select");
     const additionalPrefs = document.getElementById("additional-preferences");
     const generateBtn = document.getElementById("generate-btn");
     
@@ -212,7 +211,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 
-    // 2. Fetch locations and cuisines to populate filter options
+    // 2. Fetch locations to populate filter options
     async function loadMetadata() {
         try {
             // Load Locations
@@ -235,18 +234,6 @@ document.addEventListener("DOMContentLoaded", () => {
                     opt.value = loc;
                     opt.textContent = capitalizeString(loc);
                     locationSelect.appendChild(opt);
-                });
-            }
-
-            // Load Cuisines
-            const cuisRes = await fetch(`${API_BASE_URL}/api/v1/cuisines`);
-            if (cuisRes.ok) {
-                const cuisines = await cuisRes.json();
-                cuisinesDatalist.innerHTML = "";
-                cuisines.forEach(c => {
-                    const opt = document.createElement("option");
-                    opt.value = capitalizeString(c);
-                    cuisinesDatalist.appendChild(opt);
                 });
             }
         } catch (err) {
@@ -367,7 +354,7 @@ document.addEventListener("DOMContentLoaded", () => {
             card.addEventListener("click", () => {
                 // Populate discover inputs
                 locationSelect.value = col.location.toLowerCase();
-                cuisineInput.value = col.cuisine;
+                cuisineSelect.value = col.cuisine;
                 
                 // Select budget
                 const budgetBtn = document.querySelector(`.budget-btn[data-budget="${col.budget}"]`);
@@ -462,7 +449,7 @@ document.addEventListener("DOMContentLoaded", () => {
             item.querySelector(".reload-btn").addEventListener("click", () => {
                 // Populate forms
                 locationSelect.value = hist.payload.location;
-                cuisineInput.value = hist.payload.cuisine;
+                cuisineSelect.value = hist.payload.cuisine;
                 additionalPrefs.value = hist.payload.additional_preferences || "";
 
                 const budgetBtn = document.querySelector(`.budget-btn[data-budget="${hist.payload.budget}"]`);
@@ -684,7 +671,7 @@ document.addEventListener("DOMContentLoaded", () => {
     async function handleGenerate() {
         // Validate Inputs
         const location = locationSelect.value;
-        const cuisine = cuisineInput.value.trim();
+        const cuisine = cuisineSelect.value;
 
         if (!location) {
             showError("Please select a target city.");
@@ -693,7 +680,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         if (!cuisine) {
             showError("Please specify your preferred cuisine.");
-            cuisineInput.focus();
+            cuisineSelect.focus();
             return;
         }
 
@@ -747,7 +734,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Toggle forms enabled state
     function toggleFormInputs(enabled) {
         locationSelect.disabled = !enabled;
-        cuisineInput.disabled = !enabled;
+        cuisineSelect.disabled = !enabled;
         additionalPrefs.disabled = !enabled;
         generateBtn.disabled = !enabled;
         

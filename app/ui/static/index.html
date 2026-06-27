@@ -191,22 +191,27 @@
                     <div>
                         <label class="block font-label-md text-label-md text-on-surface-variant mb-2.5">Target City</label>
                         <div class="relative">
-                            <select id="location-select" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 pr-10 focus:ring-2 focus:ring-primary/20 text-on-surface focus:outline-none transition-all appearance-none cursor-pointer">
+                            <select id="location-select" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 pr-10 focus:ring-2 focus:ring-primary/20 text-on-surface focus:outline-none transition-all appearance-none bg-none cursor-pointer">
                                 <option class="bg-surface-container" value="" disabled selected>Loading locations...</option>
                             </select>
                             <span class="material-symbols-outlined absolute right-4 top-1/2 -translate-y-1/2 text-on-surface-variant pointer-events-none">expand_more</span>
                         </div>
                     </div>
                     
-                    <!-- Cuisine Autocomplete Input -->
+                    <!-- Cuisine Dropdown Select (6 Major Cuisines) -->
                     <div>
                         <label class="block font-label-md text-label-md text-on-surface-variant mb-2.5">Preferred Cuisine</label>
                         <div class="relative">
-                            <input id="cuisine-input" list="cuisines-list" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 pl-11 focus:ring-2 focus:ring-primary/20 text-on-surface focus:outline-none transition-all" placeholder="Type or select a cuisine..." type="text" />
-                            <span class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-on-surface-variant text-body-lg">restaurant</span>
-                            <datalist id="cuisines-list">
-                                <!-- Populated dynamically from API -->
-                            </datalist>
+                            <select id="cuisine-select" class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 pr-10 focus:ring-2 focus:ring-primary/20 text-on-surface focus:outline-none transition-all appearance-none bg-none cursor-pointer">
+                                <option class="bg-surface-container" value="" disabled selected>Select cuisine...</option>
+                                <option class="bg-surface-container" value="North Indian">North Indian</option>
+                                <option class="bg-surface-container" value="Chinese">Chinese</option>
+                                <option class="bg-surface-container" value="Mughlai">Mughlai</option>
+                                <option class="bg-surface-container" value="South Indian">South Indian</option>
+                                <option class="bg-surface-container" value="Continental">Continental</option>
+                                <option class="bg-surface-container" value="Italian">Italian</option>
+                            </select>
+                            <span class="material-symbols-outlined absolute right-4 top-1/2 -translate-y-1/2 text-on-surface-variant pointer-events-none">expand_more</span>
                         </div>
                     </div>
                     
