@@ -1,9 +1,13 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const API_BASE_URL = window.location.hostname === "localhost" || 
-                         window.location.hostname === "127.0.0.1" || 
-                         window.location.hostname.endsWith(".railway.app")
-        ? ""
-        : "https://restaurant-recommender-production.up.railway.app";
+    // Resolve the API URL
+    let API_BASE_URL = localStorage.getItem("custom_api_url");
+    if (!API_BASE_URL) {
+        API_BASE_URL = window.location.hostname === "localhost" || 
+                       window.location.hostname === "127.0.0.1" || 
+                       window.location.hostname.endsWith(".railway.app")
+            ? ""
+            : "https://restaurant-recommender-production.up.railway.app";
+    }
 
     // State management
     let selectedBudget = "medium";
@@ -39,8 +43,43 @@ document.addEventListener("DOMContentLoaded", () => {
     setupBudgetSelector();
     setupStarRating();
 
+    // Configuration Handler
+    const triggerUrlPrompt = () => {
+        const currentUrl = localStorage.getItem("custom_api_url") || "";
+        const newUrl = prompt(
+            "Configure Backend API URL\n\nEnter your deployed Railway backend URL (e.g., https://your-app.up.railway.app):\nLeave blank to reset to default.",
+            currentUrl
+        );
+        
+        if (newUrl !== null) {
+            const trimmedUrl = newUrl.trim();
+            if (trimmedUrl) {
+                const cleanUrl = trimmedUrl.replace(/\/+$/, "");
+                localStorage.setItem("custom_api_url", cleanUrl);
+            } else {
+                localStorage.removeItem("custom_api_url");
+            }
+            window.location.reload();
+        }
+    };
+
     // Event Listeners
     generateBtn.addEventListener("click", handleGenerate);
+    
+    const settingsBtn = document.getElementById("settings-btn");
+    if (settingsBtn) {
+        settingsBtn.addEventListener("click", triggerUrlPrompt);
+    }
+    if (connectionDot) {
+        connectionDot.style.cursor = "pointer";
+        connectionDot.title = "Click to set Backend API URL";
+        connectionDot.addEventListener("click", triggerUrlPrompt);
+    }
+    if (connectionText) {
+        connectionText.style.cursor = "pointer";
+        connectionText.title = "Click to set Backend API URL";
+        connectionText.addEventListener("click", triggerUrlPrompt);
+    }
 
     // 1. Verify health of the API
     async function checkSystemHealth() {
