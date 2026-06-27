@@ -2,11 +2,14 @@ document.addEventListener("DOMContentLoaded", () => {
     // Resolve the API URL
     let API_BASE_URL = localStorage.getItem("custom_api_url");
     if (!API_BASE_URL) {
-        API_BASE_URL = window.location.hostname === "localhost" || 
-                       window.location.hostname === "127.0.0.1" || 
-                       window.location.hostname.endsWith(".railway.app")
-            ? ""
-            : "https://restaurant-recommender-production.up.railway.app";
+        if (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1") {
+            // If we are on localhost but not on port 8000 (e.g., Live Server), target the backend at port 8000
+            API_BASE_URL = window.location.port === "8000" ? "" : "http://localhost:8000";
+        } else if (window.location.hostname.endsWith(".railway.app")) {
+            API_BASE_URL = "";
+        } else {
+            API_BASE_URL = "https://restaurant-recommender-production.up.railway.app";
+        }
     }
 
     // State management
